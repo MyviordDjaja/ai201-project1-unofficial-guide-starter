@@ -9,8 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+I plan to collect student reviews of Computer Science professors @ University of Georgia, collected from Rate My Professors. Its hard to find officialy since the UGA course catalog tells you a class exists and who teaches it, but never what the professor requires or what to expect from their course. That experiences only exists in student reviews whom have previously taken it.
 ---
 
 ## Documents
@@ -20,16 +19,18 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 |Ratemyprofessor|Barnes' RMP reviews, ratings, & courses taught|rmp_data/barnes_brad.txt|
+| 2 |Ratemyprofessor|Cotterell's RMP reviews, ratings, & courses taught|rmp_data/cotterell_michael.txt|
+| 3 |Ratemyprofessor|Funk's RMP reviews, ratings, & courses taught|rmp_data/funk_shelby.txt|
+| 4 |Ratemyprofessor|Hollingsworth's RMP reviews, ratings, & courses taught|rmp_data/hollingsworth_bill.txt|
+| 5 |Ratemyprofessor|Hybinette's RMP reviews, ratings, & courses taught|rmp_data/hybinette_maria.txt|
+| 6 |Ratemyprofessor|Keshtgari's RMP reviews, ratings, & courses taught|rmp_data/keshtgari_manijeh.txt|
+| 7 |Ratemyprofessor|Lamarca's RMP reviews, ratings, & courses taught|rmp_data/lamarca_salvatore.txt|
+| 8 |Ratemyprofessor|Lian's RMP reviews, ratings, & courses taught|rmp_data/lian_yiheng.txt|
+| 9 |Ratemyprofessor|Meena's RMP reviews, ratings, & courses taught|rmp_data/meena_sachin.txt|
+| 10 |Ratemyprofessor|Menik's RMP reviews, ratings, & courses taught|rmp_data/menik_sami.txt|
+| 11 |Ratemyprofessor|Peng's RMP reviews, ratings, & courses taught|rmp_data/peng_hao.txt|
+| 12 |Ratemyprofessor|Saleh's RMP reviews, ratings, & courses taught|rmp_data/saleh_eman.txt|
 
 ---
 
@@ -40,11 +41,11 @@
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** 1 review = 1 chunk (~300-500 character typically; reviews longer than that are split at a sentence boundary)
 
-**Overlap:**
+**Overlap:** Minimal, reviews tend to not continue across boundaries and each one is already complete
 
-**Reasoning:**
+**Reasoning:** Fixed-size splitting would slice mid-review and only demonstrate half an opinion; review-level chunks keep each opinion intact and matchable. That's also why I'll keep the professor name attached either to the metadata or prepended header.
 
 ---
 
@@ -56,11 +57,11 @@
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** all-MiniLM-L6-v2
 
-**Top-k:**
+**Top-k:** Start at 5
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** MiniLM is fast & free, which is fine for my case. If I needed multilingual support or better accuracy on domain jargon like course codes, then I'll need to weigh a larger model. I traded those perks against latency/per-query cost.
 
 ---
 
@@ -73,11 +74,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |What do students say about Brad Barnes's use of extra credit in CSCI 1302?|He gives a lot of extra credit — points for submitting projects early (often +10) and for in-class polls/attendance. Multiple reviews say it makes an A very achievable.|
+| 2 |Does Salvatore LaMarca test students on the Unix manual in CSCI 1730?|Yes — multiple reviews complain he asks for specific page/section numbers from the Unix manual on the midterm and final. |
+| 3 |Why do students give Shelby Funk low ratings?|Flipped classroom with little in-person teaching, excessive "busywork" (worksheets, defense summaries), slow grading, and being hard to reach by email.|
+| 4 |Between Barnes and Cotterell for CSCI 1302, do students say the choice matters?|Mixed but leans toward "not much" — several reviews say both are excellent and the assignments/deadlines are shared, though some find Barnes's lectures more engaging and Cotterell's a bit drier.|
+| 5 |What are Professor Hao Peng's office hours, and what room is the class in?|"I don't have enough information." Reviews discuss teaching style, not schedules or room numbers — this should be unanswerable.|
 
 ---
 
@@ -87,9 +88,9 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Professor attribution, if a chunk is a lone review, the professor's name may not be in the review text, so retrieval could surface the right opinion attached to the wrong person unless the metadata is wired correctly.
 
-2.
+2. Sparse/noisy reviews, some reviews are vague and carry little weight (like just saying "great professor!") which can pollute retreival. There also may be some troll/conflicting reviews, which makes "the" answer ambiguous.
 
 ---
 
@@ -100,7 +101,13 @@
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
-
+┌─────────────┐   ┌──────────┐   ┌──────────────────┐   ┌───────────┐   ┌────────────┐
+│  Document   │   │ Chunking │   │   Embedding +    │   │ Retrieval │   │ Generation │
+│  Ingestion  │──▶│         │──▶│   Vector Store   │──▶│          │──▶│            │
+│             │   │ 1 review │   │ all-MiniLM-L6-v2 │   │  top-k=5  │   │  Groq      │
+│ RMP GraphQL │   │ = 1 chunk│   │   → ChromaDB     │   │  semantic │   │ llama-3.3  │
+│ → .txt files│   │          │   │  (+ metadata)    │   │  search   │   │  -70b      │
+└─────────────┘   └──────────┘   └──────────────────┘   └───────────┘   └────────────┘
 ---
 
 ## AI Tool Plan
@@ -115,8 +122,8 @@
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3 — Ingestion and chunking:** The tool I'll use is Claude, and I'll give my Chunking strategy/Documents section as the input. I want it to produce the chunk_text() function that creates one chunk per review and I'll print a confirmation to check if the review appears exactly once, and that the professor remains attached to every chunk (also will print out chunk counts).
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval:** The tool I'll use is Claude, and I'll give my Retrieval Approach section & architecture diagram. I expect it to produce retrieval functions that return the top 5 most relevant chunks for a query, and the retrieval output inclduing similarity scores/chunk metadata. I'll check by confirming that relevant reviews appear in the top results, and that retrieved chunks correspond to the correct professor.
 
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface:** I'll also be using Claude, and I'll provide my eval plan & architecture diagram with the requirements. I expect the output to provide a prompt tempalte for RAG, code that combines retrieved chunks into a context window. I'll verify by comparing the generated answers against the expected answers in the Eval plan and confirm if unasnwerable questions doesn't result in hallucinated facts.
