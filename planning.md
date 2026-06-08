@@ -101,13 +101,14 @@ I plan to collect student reviews of Computer Science professors @ University of
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+```
 ┌─────────────┐   ┌──────────┐   ┌──────────────────┐   ┌───────────┐   ┌────────────┐
 │  Document   │   │ Chunking │   │   Embedding +    │   │ Retrieval │   │ Generation │
-│  Ingestion  │──▶│          │──▶│   Vector Store   │──▶│           │──▶│            │
-│             │   │ 1 review │   │ all-MiniLM-L6-v2 │   │  top-k=5  │   │  Groq      │
-│ RMP GraphQL │   │ = 1 chunk│   │   → ChromaDB     │   │  semantic │   │ llama-3.3  │
-│ → .txt files│   │          │   │  (+ metadata)    │   │  search   │   │  -70b      │
+│  Ingestion  │──▶│ 1 review │──▶│   Vector Store   │──▶│  top-k=5  │──▶│  Groq      │
+│ RMP GraphQL │   │ = 1 chunk│   │ all-MiniLM-L6-v2 │   │  semantic │   │ llama-3.3  │
+│ → .txt files│   │          │   │   → ChromaDB     │   │  search   │   │  -70b      │
 └─────────────┘   └──────────┘   └──────────────────┘   └───────────┘   └────────────┘
+```
 ---
 
 ## AI Tool Plan
