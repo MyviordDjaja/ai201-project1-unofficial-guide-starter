@@ -103,7 +103,7 @@ I plan to collect student reviews of Computer Science professors @ University of
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 ┌─────────────┐   ┌──────────┐   ┌──────────────────┐   ┌───────────┐   ┌────────────┐
 │  Document   │   │ Chunking │   │   Embedding +    │   │ Retrieval │   │ Generation │
-│  Ingestion  │──▶│         │──▶│   Vector Store   │──▶│          │──▶│            │
+│  Ingestion  │──▶│          │──▶│   Vector Store   │──▶│           │──▶│            │
 │             │   │ 1 review │   │ all-MiniLM-L6-v2 │   │  top-k=5  │   │  Groq      │
 │ RMP GraphQL │   │ = 1 chunk│   │   → ChromaDB     │   │  semantic │   │ llama-3.3  │
 │ → .txt files│   │          │   │  (+ metadata)    │   │  search   │   │  -70b      │
