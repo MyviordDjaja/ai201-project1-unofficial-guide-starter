@@ -47,7 +47,7 @@ def chunk_text(metadata_path="rmp_data/metadata.json"):
 if __name__ == "__main__":
     chunks = chunk_text()
     print(f"Total chunks: {len(chunks)}\n")
-    for i, chunk in enumerate(chunks[:5], start=1):
+    for i, chunk in enumerate([chunks[0], chunks[200], chunks[500], chunks[800], chunks[1000]], start=1):
         print(f"--- Sample {i} ---")
         print("text:    ", chunk["text"])
         print("metadata:", chunk["metadata"])
