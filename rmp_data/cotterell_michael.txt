@@ -1,0 +1,305 @@
+Professor: Michael Cotterell
+Department: Computer Science
+Overall rating: 4.5  Difficulty: 3.5  Would take again: 89.9329%
+============================================================
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 2 | Grade: A]
+My only gripe with him is that he requires attendance and only gives out 2 skips, besides that he's a PHENOMENAL professor
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 2 | Grade: ]
+I really liked the memory diagrams that Dr. Cotterell drew in class for variables and objects and stuff and the way he explained things. I also liked how he emphasized figuring out how to do something ourselves before trying to get the computer to do it, because approaching the labs and projects that way was a game changer for me. Great professor.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: Drop/Withdrawal]
+need to be passionate about cs or you will fail. this class is 100% a weed out class and made me realize i didn't want to pursue cs. but cotterell is a really good lecturer and explains concepts very well and overall a good professor to have for fundamentals but regardless still a hard class!
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 5 | Grade: B+]
+Cotterall was a great teacher as for the course its self make sure to keep up with the projects based off of the timeline they give you and for exams go through the entire textbook and do practice problems from there.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+Professor Cotterell is a wonderful professor who brings good energy and passion to teaching everyday! He explains concepts clearly and answers questions well. Overall, 1302 is a difficult and time-consuming course but you cannot go wrong with either Professor Cotterell or Barnes.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: C]
+Dr. Barnes was SO knowledgeable about every topic discussed & was an effective lecturer/teacher. Super well structured class. Lectures easy to follow & he will work with you. Tests are the hardest I've ever taken, I failed most despite studying hard (I am anxious), so be beware if that's you. Projects were clear but violations are harsh. Take him.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A-]
+Cotterell and Barnes are the GOATS of CS. Cotterell wants you to master the basics, and is very good at drawing out advanced concepts into simple diagrams. Tests are incredibly hard if you don't go to class, as there aren't any online slides or study guides. Lots of readings and projects, but they're well designed and you will learn a lot.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: B+]
+TAKE HIM. Absolutely could not have taken this class and done well without him. Lectures are super boring but he does an amazing job at explaining concepts and the textbook (free) is extremely useful. Tests are a somewhat difficult but he allows a full page of notes as a cheat sheet. Don't procrastinate projects.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 3 | Grade: A-]
+As long as you do your work ahead of the due date and don't wait till the last minute, you're fine. Projects are time-consuming but easy. Tests are definitely harder, but if you actually pay attention in class, you'll do fine. Overall very easy-going professor and really helpful when you have trouble with concepts and projects.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 1 | Grade: A+]
+he's just a chill dude
+
+[Course: CS1302 | Quality: 5 | Difficulty: 3 | Grade: A-]
+Class is very organized, great lecturer, but they are a little boring. The class can be hard if you decide to procrastinate
+
+[Course: CS1302 | Quality: 4 | Difficulty: 4 | Grade: Not sure yet]
+Great prof. The course has a bit of an insane workload, but he eases that a bit with his good examples and explanations. Understanding and kind person, willing to work with you. Take him if you can!!
+
+[Course: CS1302 | Quality: 5 | Difficulty: 4 | Grade: B]
+Great teacher, could teach quantum physics to an elementary schooler. Class just has a very high workload, with constant readings, homeworks, and projects to be doing/working on. Tests are also extremely application-based, so in order to do well you need to go out of your way to find and actually PRACTICE examples that are harder than the given.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: B]
+Goated professor who is so helpful, but man this class was brutal. Drop the ego from 1301, this class will push you to your limits. 3 tests make up 55% of your grade (quite difficult); don't skip TB reading&#8212;it's the only thing that will save you besides office hours (very helpful&#128077;). Procrastination will haunt you if you don't start projects early.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 1 | Grade: A+]
+I wish I'd had Michael Cotterell earlier&#8212;he's the GOAT. Great lectures, free textbook, and quick homework done in ten minutes (minimum). I never studied for tests and still aced them by attending class and doing HW. The Java/Unix content is easy and fun. Quizzes and homework are online. Tests are also online with secure browser.
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 2 | Grade: A-]
+just not dr.barnes,.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 4 | Grade: C+]
+Dr. Cotterell is one of the nicest and most caring professors i've had so far at UGA. He tries to make his lectures as entertaining as possible and is willing to work with you and help you out as best he can. He is definitely the best CS teacher, however, your TA is the one who mainly grades your labs and projects. Work on assignments ahead of time
+
+[Course: CS1302 | Quality: 5 | Difficulty: 4 | Grade: B]
+Great lecturer and best of all the CS teachers, just a hard class (depending on your background). There's a lot of extra credit to make up for the difficulty. One thing I'd recommend (which he recommends too) is working on the projects way early. They take longer than you'd expect, and one misunderstanding can cost you 30+% so really double check.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A-]
+I always felt like I could ask Dr. Coterell a question and that he really cared whether I understood the response. He is really good at explaining stuff and super helpful in office hours. I don't think I have learned as much in any other class. I hope he teaches some other classes in the future so that I can take a class from him again!
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 3 | Grade: A]
+Dr. Cotterell was great! He wrote code live during lecture, explained things well, and helped me during office hours the two or three times that I went. He didn't use power points but did post really good notes about what he covered in class and example code on elc most weeks. 1 midterm, 12 labs, 4 projects, some activities and quizzes and a final.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 4 | Grade: Not sure yet]
+Great explainer and caring, but not as active with learning during lecture. Gets quite boring without a background in CS. Expects learning to be done from textbook and only shows 1 long example in class. Tests and quizzes are understandable if you understand the concepts. Don't feel confident creating code, but understand coding concepts well!
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 2 | Grade: A]
+He's a pretty good professor & lecturer; he wants you to understand what's going on & is happy to answer questions. 3 tests & 3 projects + a final project. Not too hard if you know CS. If you don't, just make sure to start assignments early & then ask questions/go to office hours.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 4 | Grade: D]
+Dr cotterell is an amazing prof but you really need to try hard in this class or you will fail. Get the work done as early as possible after he assigns it and you'll honestly be fine. Get the projects done asap. The tests aren't bad and the homework isn't bad. Read the project guidelines very carefully tho
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+Dr. Cotterell is a fantastic CS lecturer. I went into his class with no prior knowledge and his lectures made learning the material easy. The labs and projects are tedious and can be frustrating, especially later in the semester, but the department creates those, not him. Amazing professor, would definitely recommend.
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 4 | Grade: A]
+GOATed experience. He emphasized planning before coding and coding "up" the entire semester. Not gonna lie, I didn't really agree with or understand what he meant until after a few assignments, but after trying to approach stuff the way he recommended, it's based.
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 3 | Grade: A-]
+Cotterell's lectures are thorough and detailed. While they can be a bit tough, the homeworks and projects are manageable. unstuck ai was a huge help with study prep.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: A]
+He is the best. I've never learned so much in one class. Tests are fair, and homeworks/projects will push you. This class made me sure that I wanted to be a CS major. He lectures very well for a CS class.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 4 | Grade: C]
+This class really killed me, but cotterell, he is the goat. If you ever have questions just go to office hours its literally amazing.
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 1 | Grade: A+]
+Great at explaining and very caring. If you already know programming (especially Java) this will be a piece of cake - I got 100% on everything (including all labs and exams) besides one quiz. Midterm, final, and labs were easy. You can learn from the textbook, but lectures have activities and quizzes each week (although they're very easy).
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 2 | Grade: A]
+Cotterell is super smart and that plays into his lectures. His lectures can be ever so slightly hard to sit through, especially when compared to Barnes. But nevertheless, his lectures are super useful. Homeworks are easy and are somewhat guided by tutorials and the projects are long.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 1 | Grade: A]
+Your experience will probably be the same no matter which 1302 prof you take, their assignments and deadlines are the same. lots of extra credit including up to 10 extra points on each project. final project instead of exam.  lectures are thorough and detailed. not hard to get an A if you submit all the assignments. all three exams are online.
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 3 | Grade: B-]
+I am not a computer science major, but I did need this class for a prerequisite. With that being said, I struggled in the class constantly. The labs are tough and you have to put a lot of time into them to get a good grade. The TA's are very picky, but it's their job to be. Pay attention in class and read the textbook. It will be your best friend.
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 3 | Grade: A]
+Great professor! The best way to be prepared for his exams are to read the textbook and review the notes he posts. The lectures were a lot easier than than what was covered in the textbook but both are very important. He's very kind and patient, so don't be afraid to ask questions! Good luck!
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 3 | Grade: A+]
+Professor Cotterell brings a lot of energy into his lectures, even when the class vibe is dead 24/7. Great professor that will take his time to make sure you understand. What I really appreciated was that he taught as if we had never taken a CS course before and makes sure to explain any CS jargon that he uses. A beginner friendly course, take him!
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 4 | Grade: A]
+Review got deleted- 25% midterm, 25% final, labs, projects, and quizzes takes over the rest. Cotterell is the best intro to comp sci prof to take- the notes that he posts on eLC are super helpful (STUDY THEM!!). Textbook required but can be found in libgen. Helpful for vocab and mc questions on the tests. Doable class- lab attendance required.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: Not sure yet]
+One of the GOATs of 1302 along with Dr. Barnes. He explains things really well and is great at answering questions. Take him if you have a chance.
+
+[Course: CS1302 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+. He explains everything so clearly and pretty much everything you need is in the readings he assigns. HWs are not too bad. Projects get easier as you progress through the class because you'll be able to understand documentation quicker. Exams are a little hard but doable. Lots of extra credit.
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Dr. Cotterell really takes the time to help you  is an excellent teacher
+
+[Course: CSCI1302 | Quality: 3 | Difficulty: 3 | Grade: Not sure yet]
+He isn't a bad teacher however, I wasn't a big fan of his teaching style. I took a course which let me have one cs teacher for half the term and cotteral for the second half. The change in teachers and teaching style may have been a factor in not liking the teaching style as much. The lectures are complicated but useful.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 4 | Grade: Not sure yet]
+This class way easy, if you read assign chapters from the textbook you will be fine. My biggest issue though was Labs, Labs follow a universal syllabus, you get one submission for most of the labs. It kinda unfair because other professors gave unlimited submissions for labs. That was my biggest complaint. Overall a good class, i guess.
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+Lectures are great! He teaches by writing code during class AND is really good at explaining what is going on.
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+Dr. Cotterell does a great job explaining programming concepts. I really like how he writes code with us during class.
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 4 | Grade: A-]
+Awesome!
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+Good lectures that are clear if you pay attention. Class is a lot of work and a lot of reading but everything is laid out step by step and very clear so you can answer most of your own questions just by reading detailed instructions everywhere!
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 3 | Grade: B]
+The class was very straightforward and provided great learning oppurtunities. Cotterell explains the topics well. His office hours are early in the morning so I recommend going to the afternoon office hours since more TAs are available to help. Projects should be started ASAP especially since bonus pts are given for early submissions.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 1 | Grade: A]
+laughable at how simple this course was, but wtv. basically just read ~10mins before lectures and try the concepts on your own and youll be good. everythings on github so clear grading criteria and readings are p good. he's a nice guy & teaches p well. online Q&A (piazza) was good also. cotterell & barnes got this course down.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: A+]
+He's awesome, you can't go wrong by taking his class. He is very good at explaining hard concepts durring the lectures. Project/homework instructions are also very detailed and usually walk you through the hardest parts.
+
+[Course: CSCI3030 | Quality: 5 | Difficulty: 1 | Grade: A]
+Really easy class with some fun reading assignments, recitations & defense summaries took a bit of time each week but wasn't anything too hard.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: ]
+1302 is pretty much going to be the same whether it's Barnes or Cotterell, clear expectations of what is needed to pass or what is going to be in the exams. Great class that teaches you the fundamentals of OOP.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 5 | Grade: A-]
+A difficult class, but if you ask questions, he's very keen to understand and help you understand them mid-lecture. Also very helpful during Office Hours.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 2 | Grade: A]
+He is a really good professor, but you have to do the readings & pay attention in class. lectures are kind of like the readings. It's honestly a pretty easy class if you start working on projects/hw early. 5 projects, hw pretty much every week, lots of extra credit tho
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 5 | Grade: A]
+Cotterell is a great professor. He explains the topics very well and makes sure that everyone understands them. However, the workload can be a bit extreme at times. 5 projects throughout the semester was absurd, and seemed like overkill. On top of this, there are homework assignments almost every week to complete, as well as 3 exams.
+
+[Course: CSCI4800 | Quality: 5 | Difficulty: 4 | Grade: Not sure yet]
+Cotterell devoted in-class time throughout the semester to work on our team term project, worked with each team one-on-one to answer questions, and had an interesting and engaging class structure that basically allowed us to discuss what we were learning about in class each and every class period. No programming, but very interesting and engaging.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+1302 was a very tough class. Cotterell was a great professor and cared about his students so despite it being difficult I was able to do well and pass with an A. Lots of extra credit. Highly recommend this professor for any CS class.
+
+[Course: CS1302 | Quality: 4 | Difficulty: 1 | Grade: A]
+Always easy to reach online. Projects were easy and you get 10 bonus points for submitting 2 days early. Tests were fine, and homework was easy too.
+Didn't attend many lectures, but the ones I went to were well taught and did a good job covering the material.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 1 | Grade: A]
+If you have the opportunity to take this class with Dr. Cotterell, please do. I cannot recommend him enough; he is both incredibly knowledgeable about the class, but also really cares about helping students reach where they want to be. Please please take him if you can-you will thank yourself for it.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+The content in this class is difficult, but Dr. Cotterell can explain them well and helps outside of class. There are also many office hours and extra credit opportunities. However, there are so many readings and assignments in this class, and I felt like I could never catch up. Overall a great professor- just a tough class with a lot of work.
+
+[Course: CS1302 | Quality: 4 | Difficulty: 3 | Grade: A]
+I feel like the class could be taught a little bit better.  Theres readings before every class period and in class he more or less goes over the readings, which feels a little redundant.  Overall good teacher, gives extra credit if you turn the projects in early and if you go to class
+
+[Course: CS1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+Dr. Cotterell is a great professor especially when it comes to debugging when you run into issues with your code. No problem that took him more than a few seconds to solve. 1302 is a hard class. You will be learning a lot of the nitty-gritty of coding in Java. Along with this be prepared to use a Unix environment, not Eclipse.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+Dr. Supa Mike is easily the best CS professor I've had at UGA. His lectures are very helpful and informative, and he is very good at breaking down complex topics into examples. The projects for this class can be very demanding and frustrating at times, but don't give up and maybe go to office hours and you will succeed.
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 4 | Grade: A-]
+Had to study a lot outside of class, lectures are just there to supplement. Quizzes/tests are hard, but grading of projects is SO MUCH more generous than 1301. He's a great lecturer, funny guy, but his voice is a bit annoying and gets monotone. Barnes was a lot more helpful during office hours. Make sure to start your code early for projects/hw!
+
+[Course: CS1302 | Quality: 5 | Difficulty: 4 | Grade: A+]
+Cotterell is a really good prof! The projects were difficult but going to lecture, staying on top of the material, and def going to office hours is the best way to do well on them. The exams were always very fair. Beware of the first minesweeper project. It is hard but def doable START EARLY. They really have set up this class to help you succeed
+
+[Course: CS1302 | Quality: 4 | Difficulty: 3 | Grade: A+]
+Very good teacher but the content is a little challenging. If you show up to class and do the extra credit you will do good. Also very accessible outside of class and a lot of office hours.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 3 | Grade: B]
+Amazing professor but the class was very difficult. Projects are extremely hard, time-consuming, and stressful but if you work hard and pay attention I think you'll be fine. But seriously, the projects made me want to rip my hair out.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+Dr. Cotterell is great. He's passionate and cares about learning. Every day, he not only writes, compiles, and runs working and good looking code from scratch to demo what we're learning about, but he breaks it down, explains it well, and answers questions about it all at the same time. This way that he teaches is enjoyable and refreshing.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 4 | Grade: C+]
+Cotterell was amazing during my time with him. All the concepts were laid out in a format that was easily accessible and understandable with walkthrough exercises to help you get a solid foundation under your feet for the projects. Do the work, and you will not only pass the class but come out feeling like you learned something from Cotterell.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: A+]
+Dr. Cotterell is hands-down the best professor I've ever had. Although his class consists of some hard to understand topics, he make sure everyone understands the concepts and provides all the resources you need to build your foundation. There's lots of extra-credit and he actually makes class enjoyable and interesting (unlike other CS professors).
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 4 | Grade: A]
+This class was probably the hardest class I've taken here so far. It actually made me decide to switch majors. There's a ton of work. With that said, Professor Cotterell was great. He was friendly, helpful, and when he could tell students were struggling with projects, he would even extend deadlines. Great professor, just not a fan of the class.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A+]
+Dr. Cotterell is a great professor. His course is extremely well-organized and he treats you like a human being. While his class is rigorous and major projects can be difficult, he gives extra credit for turning them in early and is often available to help via Piazza or office hours. Make sure to start on weekly assignments and projects early.
+
+[Course: CS1302 | Quality: 4 | Difficulty: 3 | Grade: A]
+While this class is a weed-out, an A is very possible. Dr. Cotterell explains the material well, but do mind that this is a sink or swim type of class. Start projects early and read the material before each class. There are tons of other students, so do not expect much 1 on 1 help. It will help to be familiar with Emacs before you start.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: A]
+Dr. Cotterell is an amazing professor. He makes all of the material easy to understand and the course is very organized. That being said, it is a lot of work at times but if you stay on top of it, 1302 doesn't have to be hard at all. Just follow the course layout, study the material before every exam, and start projects/homework early!
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 5 | Grade: B+]
+While this was the most difficult class I took this semester and I struggled a lot, I thought Dr. Cotterell was a very good professor. He made sure to take the time to answer student questions and to explain things in different ways if we didn't understand it the first time. He provided a lot of support and I would definitely recommend him.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: A]
+Go to class, do the readings, take the quizzes and do the homework. This is a small part of your grade, but you will learn a lot. The projects are really enjoyable if you like coding, but can be time-consuming. There's also a Piazza board the professors respond to often. The tests aren't bad if you understand the quizzes. A cheatsheet is allowed.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: ]
+Dr. Cotterell was by far the best CS professor that I have ever had. He gives great lectures that go over the material that is on the test. His projects are time consuming, but not impossible. The weekly quizzes and homework was annoying at times but nothing that was not manageable. I would highly recommend you take Dr. Cotterell!
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+Very difficult and time consuming class, but taught by one of the best professors at this school. Due to the nature of java, much of it is impossible for you to understand just by watching the lectures so you'll more than likely have to do all the readings and tutorials. Start early on projects because they can easily take upwards of 15 hours.
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 4 | Grade: ]
+Good professor overall - Cotterell definitely made the concepts that he taught understandable to everyone. He (and Barnes) also gave project/deadline extensions sometimes. The course materials were hosted on GitHub which helped for accessibility. However, there is a LOT of work in this class, and you need to be prepared to work your butt off.
+
+[Course: CSCI1302 | Quality: 3 | Difficulty: 5 | Grade: ]
+Cotterell is very knowledgeable and available. However, he is also very unaccommodating, lacking the proper discretion for extenuating circumstances like the pandemic. I suppose that is to be expected of a weed-out class like this, though. He and his TAs grade incredibly harsh, beware of losing entire letter grades over very minor technicalities.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 5 | Grade: A]
+Cotterell is a fantastic teacher and communicator. I can say I've never learned so much in a semester before. BEWARE: Cotterell &amp; Barnes team up and combine the 1302 classes into 1 huge class. CSCI1302 IS A WEED-OUT CLASS. These two men take this class super seriously and grade pretty hardcore. But again, their class makes 1301 look like a joke.
+
+[Course: CSCI1302 | Quality: 3 | Difficulty: 5 | Grade: A]
+Hard class, especially during a pandemic. It keeps you busy with an insane amount of work. Both teachers did the best they couldve, but due to the nature of this semester, there were plenty of times where I felt overwhelmed or not supported. He is helpful, but I was not a fan of the reverse classroom. TAs were great &amp; projects are SO important!
+
+[Course: CSCI1300 | Quality: 5 | Difficulty: 2 | Grade: ]
+Dr. Cotterell has a great way of walking through and explaining examples during class. Before this class, I had never written a single line of code. Now I find myself writing code for fun! Definitely take this class with Dr. Cotterell!
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: A]
+Dr. Cotterel wrote most of the readings, which was great because it meant it directly related to other assignments. This semester, we were asked to read and do an exercise before each class, then ask questions as Dr. Cotterall demos / codes the important parts of the exercise live in class. He's enthusiastic and great at explaining things.
+
+[Course: CSCI1302 | Quality: 3 | Difficulty: 3 | Grade: A]
+Fine as a lecturer, but condescending at times. Doesn't really teach that much, but that is marketed as the gimmick of the class (that you learn everything yourself). So if you're debating whether to take Cotterell or Barnes (two current lecturers), here's my answer: it doesn't matter. You'll be learning everything yourself anyway!
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 5 | Grade: C+]
+This class wakes you up. You cant slack off, must attend to work for a participation grade, and must start projects early. Dr. Cotterell is very caring and intelligent, and it's obvious that he wants his students to learn and truly grasp the material. This class grows you as programmer more than any other, so try to enjoy the hustle.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 5 | Grade: B-]
+Dr. Cotterell was very accessible and constantly answered questions. The course was graded mostly based on your ability to perform on exams with the midterm and final totaling 60% of your grade. If you perform poorly on exams, like me; then don't take this professor, because even 100+ on homeworks and quizzes won't save your grade.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 3 | Grade: A]
+Can't say enough good things about Dr. Cotterell. He made easy to follow and high quality videos for us, which made the material much easier to grasp. He was very accessible through Piazza and always provided helpful responses. He also gave us tons of extra credit opportunities. Definitely take this class with him if you can.
+
+[Course: CSCI3030 | Quality: 4 | Difficulty: 3 | Grade: A+]
+This is my second time taking a class with Dr. Cotterell. In this case, the class schedule and grading criteria was so clear and that was really appreciated. It's definitely an interesting class, and reading the textbook is a must, but it's a good read!
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 3 | Grade: ]
+Dr. Cotterell graded the midterm instead of the TAs, and it's honestly some of the best feedback I've ever gotten on an assignment (I got an A-). Way better than the TAs. He also records videos for us to watch after doing the readings so that we can work on the material at our own pace. I like the way he presents stuff compared to the book.
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 5 | Grade: A]
+As 1302 goes, it's probably the hardest cs class at UGA period. So I'd advise buckling down. Cotterell is great, and he explains the tough concepts well. My class was flipped, so there were never any long lectures, 10-15 minutes at most. The rest of the classes are doing coding exercises with partners. But this will be the hardest class you take.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+This class wasn't easy, and the workload was often heavy, but it certainly improved my programming ability greatly. Also, Mike clearly shows great care and understanding towards his students, as evidenced by the multitude of available office hours all semester and course adjustments made after the switch to online. Put in the work and you've got it
+
+[Course: CSCI3030 | Quality: 5 | Difficulty: 2 | Grade: A-]
+Skipped some assignments and still going to make an A-. Topics were interesting, and the work isn't hard--just have to do it. I really like the different ethical theories we used in the class. Dr. Cotterell was great!
+
+[Course: CSCI3030 | Quality: 5 | Difficulty: 2 | Grade: A]
+Cotterell offers great perspectives into the material and is an all around likable professor. If you do the work, then you'll pass the class. While the work can seem tedious at times, many of the topics are really fun and interesting.
+
+[Course: CSCI3030 | Quality: 2 | Difficulty: 4 | Grade: ]
+tons of online busywork. Only got worse with the switch to online classes. Didn't even record actual lectures, just gave us youtube videos to watch. The final included 2 essays (with a max word count of 1500) that we were expected to write in the middle of finals week.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: ]
+Dr. Cotterell truly cares about his students. I am currently taking CSCI1302 and it changed to online. This class rocks. Class exercises + weekly quizzes are expected to be completed. Projects, they're tough and you need to learn how to problem solve given a skeleton outline (constantly on google). The workload is a step up from 1301 but its doable
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+Honestly loving Dr. Cotterells flipped class. Its way better than my 1301 experience. Work isnt bad if you stay on schedule and there are lots of office hours when you need help.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 3 | Grade: A-]
+Dr. Cotterell is friendly and knowledgeable. At first I didn't know how to manage my time with his class, but I took his suggestions seriously about how to work through the material, and it paid off. He was also great at answering questions in class and in office hours. He even incorporated our feedback into the class, which was cool.
+
+[Course: CSCI1302 | Quality: 2 | Difficulty: 5 | Grade: B+]
+The CS department is really working to improve their teaching, and Cotterell showed us this by taking our feedback halfway through the semester then instantly implementing it. Hard projects but coding doesn't come natural to me so may be easier for others. Amazing lecturer the few times he did lecture but mostly group work everyday.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+This class was a lot of work, but I also learned a lot. Dr. Cotterell was readily accessible in class and during office hours. Class was flipped.
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 4 | Grade: A-]
+The class was flipped, but Dr. Cotterell was able to answer all of my questions when I had some. Really good at explaining things. Final project was a group project. My partner and I made our own version of asteroids and mancala!
+
+[Course: CSCI1302 | Quality: 4 | Difficulty: 4 | Grade: A]
+Great guy. Just took the last test and feel prepared to work through the final project. Cotterell is really good at explaiing things, which he had to do for me alot. Extra credit is nice too.
+
+[Course: CSCI1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+Dr. Cotterell's class is rough if you don't keep up, but if you do the class exercises and ask for help when you're stuck, then it's not bad at all. He's also really nice and helpful during office hours.

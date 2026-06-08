@@ -1,0 +1,306 @@
+Professor: Hao Peng
+Department: Computer Science
+Overall rating: 3.6  Difficulty: 3  Would take again: 73.2673%
+============================================================
+
+[Course: CSCI4360 | Quality: 5 | Difficulty: 2 | Grade: A]
+The class was very easy; however, I do not feel that I learned a lot from his lectures. It was hard to focus on them. He was a very nice and humorous professor.
+
+[Course: CSCI4360 | Quality: 5 | Difficulty: 1 | Grade: A]
+Overall, a great professor for the class and a very good lecturer. Would recommend for Data Science 1/2.
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 3 | Grade: A-]
+get ready to be edged, thats all.
+
+[Course: CSCI4360 | Quality: 4 | Difficulty: 3 | Grade: A-]
+Class was a big discussion everyday about the topic at hand. At times the material could be uninteresting, but the discussion was often great. This was his first semester teaching the course, so it will be more rigorous in the future. This semester, there were four homework assignments, a midterm exam, and a final project.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 1 | Grade: A]
+Exams are all online with basic ahh lockdown browser  ,doesnt take attendance,  Hw is with some textbook but there is a free verison, This is a free A.
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 4 | Grade: ]
+Simple class structure, but being a flipped classroom can make in-depth understanding difficult. Dr. Peng does not teach in class, only works through exercises, so you really need to understand everything before showing up to class. Content can be difficult, it really just depends on how your brain works. Peng is all-around pretty solid though
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 2 | Grade: A]
+The best teacher you can take at UGA. Get ready to learn a lot and have fun in the lectures!
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 3 | Grade: A]
+He is very funny and teaches using the flipped-classroom method. Attendance is not mandatory AT ALL and 95% of his exam questions are from his quizzes (online and available from day 1) but with different numbers. Overall a great class!
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 2 | Grade: A]
+Not much to say other than he was both great at teaching and really funny. Loved his lectures when I went, and good attendance wasn't mandatory for when I couldn't. Go on the review days before exams if you take his class though. They will be your lifesavers.
+
+[Course: CSCI3360 | Quality: 5 | Difficulty: 3 | Grade: A]
+good class learned a lot
+
+[Course: CSCS2610 | Quality: 5 | Difficulty: 2 | Grade: A]
+Professor Hao Peng is a wonderful professor! He is genuinely hilarious and caring. Like other students mentioned, Discrete Math is taught in a flipped-classroom style so attendance is not mandatory. All resources for the class are available in elc and the content isn't too difficult. 100% would recommend!
+
+[Course: CSCI3360 | Quality: 5 | Difficulty: 1 | Grade: A-]
+He doesn't require attendance and used flipped classroom. There is a group project at the end. 2 Exams which are online
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 1 | Grade: A]
+Good prof who is good at explaining concepts, though he does often go on short tangents.
+The actual course does not have much content though, so most lectures are let out 15-30 mins early.
+Its also flipped so make sure you read the book even if you go to the lectures
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 2 | Grade: A]
+Hao Peng is a funny and easy going guy, often goes on tangents looking random stuff up during class. Flipped classroom, so videos before class are the lecture, class is just extra practice. Realistically if you are a motivated student you dont have to go to class at all to succeed. Hw sometimes long but rest is light, clearly outlined expectations.
+
+[Course: CSCI2610 | Quality: 2 | Difficulty: 4 | Grade: A]
+Professor is nice but i don't like his teaching style. He posts a bunch of videos that you're expected to watch before class and just solves problems during class without really teaching or explaining the concepts. So if you don't watch the 3-4 vids before class, yeah u won't understand anything in class.
+
+[Course: CSCI3360 | Quality: 4 | Difficulty: 2 | Grade: Not sure yet]
+He uses a flipped classroom format where you watch his lecture videos (varies from ~10-40 min) before class, and he solves problems in class. He focuses on the math behind machine learning models (which isn't that hard), so the Python coding isn't that intensive. He gives a lot of time for the homework, and he gives a good review before exams.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 3 | Grade: A-]
+It was discrete math but it was a flipped classroom. His exams can be quite tricky even though they are online multiple choice with lockdown browser. My GOAT tho
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 2 | Grade: A]
+This class is basically an online class, I showed up to class the first two days, and never showed up again. If you are good at self-teaching it's very free. You learn the material yourself at home and he goes over problems in class. If this style doesn't suit you, choose another professor, but if you're good at self-teaching, it's very convenient.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 4 | Grade: A]
+One of my favorite professors I've had at UGA, very nice and willing to help you with problems through being responsive to emails or asking in class. Will probably have to take notes/seek extra help outside of class though. Very test heavy and practically no curve, final is by far the hardest test in the semester. bonus credit so an A is doable
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 3 | Grade: A]
+Flipped Classroom format, his videos aren't really that helpful but content isn't that difficult. Drops lowest Homework and quiz grade, and each quiz has two attempts. The tests aren't too hard either, and he gives extra credit at the end of the semester. Overall he seems like a good guy, just isn't the best at explaining the topics in the class.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 4 | Grade: A-]
+Show up to class and pay attention and it will be fine. Definitely gets hard towards the end and the final exam is pretty rough, but there is extra credit so take those opportunities. He explains things really well and is easy to reach regarding extra help. One of the best professors in the CS department imo.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 3 | Grade: A]
+If you put in the work, it is an easy class. 6 homework's throughout the semester. Quiz due almost every week with 2 attempts. 3 exams ( 1 is 15%, 2 is 20% and Final is 25%). All exams are online on elc with lockdown + webcam.
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 4 | Grade: B]
+You have to teach yourself and then he goes over problems in class. However, these problems are not the same format as the test. There are weekly quizzes which are similar to the test so the best way to study is to practice those! However, he is caring about his students and was accommodating when I had technical difficulties on the final.
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 5 | Grade: A-]
+Class was ok overall. He doesn't really teach, you are supposed to learn all of the material by yourself. Some of his lecture videos are really confusing, and his in-class exercises are unnecessarily hard. The tests are online, and you get a cheat sheet, but the professor is definitely harder than the other discrete math professors.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 4 | Grade: B]
+Good lecturer, just didn't really like the layout of the class of having to take all the notes outside of class
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+Honestly has to be my most favorite professor in the entire CS department. His lectures are really good, and he's accessible outside of class. Theory itself hasn't been too bad so far, but the difficult has certainly spiked up since we started Turing machines. Would highly recommend taking him!
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Peng is good but this class obviously involves a lot of theory, so things aren't always straightforward at first, but they usually makes sense after doing the classwork. Everything gets worse after Turing machines. Peng posts his slides to eLC, so I'd recommend downloading the slides, so you can listen more actively in class.
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 3 | Grade: A-]
+Pretty okay class and professor but there are only 3 exams that make up most of the grade along with quizzes and homework. The exams are online and mostly multiple choice but they can be tricky sometimes. If you do all the work and go to class you should be okay.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 3 | Grade: A-]
+Dr. Peng is very nice & educated on Theory. Also posts his slides & reviews on eLC. Weekly HW on Grafstate that is only difficult after learning Turing Machines after Exam 2 (allowed to work together on HW but I worked solo since Exam ?s very similar). Final was harder than the 2 exams, but if you study more & always did the HW you should be good.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 2 | Grade: A+]
+If you watch all his lecture videos and actively participate in class and do all the work that is expected of you in this course, you should be able to bag an A.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: ]
+Theory could be hard so be ready to study well. Classwork (work with your group) due every week and isn't that hard. Quick email response, clear instruction, ppt provided. Tests mostly come from your classwork but heavy weighted, as long as you study then you will be fine. Overall, he's nice guy, must take him
+
+[Course: CSCI1730 | Quality: 5 | Difficulty: 3 | Grade: A+]
+Professor Peng can be a little tricky with the projects, but if you take him on Summer, you have two exams and three projects. Do some research for Unix, C++. Other than that you should be good to go. TAs, can be typical TAs. He respond fairly quick, instructions on projects can be a little broad.
+
+[Course: CSCI1730 | Quality: 5 | Difficulty: 3 | Grade: A]
+I love Peng. His class layout is smart, but different: you watch the lecture online before the class to cover content, then watch its application in person. His tests and assignments are fair. He makes the class easy and interesting, and includes the application of its content. Finally a CS professor with some personality.
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 4 | Grade: B]
+Nice guy and knows the material but he is not good at teaching it. Went on many random tangents during lectures. Flipped classroom is not ideal for discrete math imo. I spent so much time doing reading and videos before class but still did not understand the material well. 3 exams, weekly online quizzes (w/ 2 attempts), semiweekly hw.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 4 | Grade: B]
+Decent class. The majority of the learning was done online with practice problems gone over during lectures. Heard from some that he makes the class harder than other profs, but I can't verify that. Attendance is not mandatory at all and you can probably still do fine in the class without ever going at all.
+
+[Course: CSCI2610 | Quality: 2 | Difficulty: 5 | Grade: B]
+Hao Peng is not a great professor. He's the only discrete professor who does a flipped classroom, so if you are looking for a non-mandatory attendance professor, you found him. Otherwise, if you plan on coming to class and learning from the professor himself, this is not the way to go.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 1 | Grade: A+]
+Hao Peng is a phenomenal professor. As someone who did not understand much of Discrete Mathematics content, I was able to perform exceptionally well in this course. Dr. Peng makes it easy to participate and do well. Would recommend to anyone.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 3 | Grade: A-]
+Hao peng is really cool. For discrete math he did a flip style classroom. Lecture videos before class and problems in class. I actually liked learning it this way because the in class problems just helped it click better. He also likes going off on random tangents which kinda kept me engaged.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 2 | Grade: Not sure yet]
+Very good professor, flipped classroom worked well and he makes lectures interesting and engaging due to his likable personality. You dont necessarily have to pay that much attention in class to get good grades if you are a good studier. Only complaints were that the teaching method got repetitive and the second test covers a lot of information.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 2 | Grade: A]
+Clear lectures. Sometimes has funny tangents (ex figuring out what a needle in a hay stack is). Doesn't overcomplicate things. Teaches what you need to know and that's what's on the test. Great for everything, but better in 2670 than 1730. One of best CS professors. Wasn't planning on taking data science, but I will be because he's teaching it.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 4 | Grade: C+]
+took F23 and was simple. Projects are moderately difficult...sometimes. Exams were MCQ, and cheat sheets were allowed. Straightforward with test questions and review.
+
+[Course: CSCI1730 | Quality: 5 | Difficulty: 3 | Grade: A+]
+Lectures aren't terribly exciting, easy to zone out. It's flipped so you watch videos and then go to class where he asks conceptual questions. He gives you so much time on homework, some projects can be done in as little as 2-3 hours if you really focus. You get a cheat sheet on both exams. Nice guy, approachable for questions. Good professor!
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 3 | Grade: A]
+All of his lectures were pre-recorded videos to be watched on ELC, which is not how I like to learn. In class, periods were extremely boring as they consisted of a few practice problems with so much down time in between. Coding projects were hard, but not impossible. Exams allow a cheat sheet, which was a huge life safer.
+
+[Course: CSCI3360 | Quality: 5 | Difficulty: 1 | Grade: A]
+Dr. Peng never lectured in class and would instead post lecture videos and we would do practice exercises in class. There is one group project at the end of the semester which is not bad. The midterm and final are really easy and he gives a study guide which is basically the same as the exams. Definitely recommend this class as it's an easy A!
+
+[Course: CSCI3360 | Quality: 4 | Difficulty: 1 | Grade: A]
+Peng used the flipped classroom model (lectures for homework, assignments during class), and posted the solutions for everything, so attendance was not mandatory. Very easy assignments, and the midterm and final were all math. Take Peng for an easy A!
+
+[Course: CSCI3360 | Quality: 3 | Difficulty: 2 | Grade: A]
+Very silly and friendly man, with lectures that very directly set you up for homework and exams (hw is just the lecture notes with different data). Lectures can get pretty dry, though, just copy down notes and doodle or something. Also there's a group project+presentation but it's very easy.
+
+[Course: CS1301 | Quality: 5 | Difficulty: 2 | Grade: A+]
+He's great, please take him for 1730, he's so silly and I love him. You can tell that he really likes what he teaches. Most of the labs and project can be done by using the code examples he gives you. He is also a pretty good lecturer and made stuff feel easy with his examples. The last two project can also be done with a partner.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 2 | Grade: A]
+I took Peng for 1730, Theory of Computing, and Data Science I. He's chill and gives good lectures, although they can be a little dry (especially for 1730). His workload is super light and his tests are not hard. Attendance is optional; most people skipped class. I really loved him for theory but I'd recommend him for any class.
+
+[Course: CSCI1730 | Quality: 5 | Difficulty: 3 | Grade: A+]
+Love his teaching style of watching videos online and coming in class to do coding activities.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 3 | Grade: ]
+Average lecturer, not bad, not good.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 2 | Grade: A]
+super easy cs class. 7 labs, 3 projects (2 w/ partner) and 2 exams. for exams, just study the review ppt (mostly) and use the lecture slides he posts to make ur cheat sheet and u will be fine on exams. most of the code for labs/projects are in his example codes
+
+[Course: CSCI3360 | Quality: 4 | Difficulty: 1 | Grade: A]
+The content is a survey of elementary data science topics, making it too easy for what we have to subsequently do in 4360; that being said, he's such a sweet man that I'm ok with that. Assignments were literally just lecture notes but with different data. A group project, but very easy. He's also chatGPT-friendly.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 3 | Grade: A]
+Dr. Peng was a very reasonable professor and his class had a very defined structure. If you go to class and do the practice problems, you will do well on the quizzes. If you study the quizzes thoroughly, you will do well on the tests. Study for 30-45 minutes a day and follow this cycle and you will surely get an A.
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 4 | Grade: C]
+This professor is decent and fair. His TA's were lenient on grading the homework as long as you do things on LATEX. Be prepared to attend lectures since that's the only way you get good practice. His lecture slides are key to getting a decent understanding of the material.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 3 | Grade: A]
+this class was pretty easy but it is graded heavily by tests, so you need to study hard for those. the test comes straight from the review the day before, so make sure to study that mainly. the hws aren't super hard and they're from a textbook that can be found online.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 2 | Grade: Not sure yet]
+I honestly really liked this class. He made theory managable. However, I did find myself needing Youtube videos to futher understand topics. EasyTheory and Neso Academy will get you through this course. Seriously... just watch videos on things you don't understand and you'll pass. I wouldn't have gotten an A on the first test without the videos.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 2 | Grade: Not sure yet]
+Dr. Peng is a fair teacher and a funny guy, but I didn't find class to be particularly engaging because it was exclusively working through practice problems. He explains concepts and problems well, but the flipped format made it hard to want to come to class. But if you come to class and work the problems, quizzes and homework are super easy.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+3 tests are worth 65% of your grade. I'm normally a really bad test taker but he goes over everything that will be on the test the class before and he lets us use a cheat sheet which has been really helpful. I really enjoy his lectures. I normally find comp sci lectures boring but he works through problems with us using grafstate/drawing.
+
+[Course: CSCI1730 | Quality: 5 | Difficulty: 2 | Grade: A+]
+One of the easiest classes I've taken at UGA. Labs are due every other week, with alot of the answers being in the sample code. He had review sessions for the midterm and final that essentially outlined the test and told the answers. I hadn't stayed for an entire class period until the last week of school, but still ended with an A.
+
+[Course: CSCI3360 | Quality: 4 | Difficulty: 2 | Grade: A+]
+Peng is a pretty chill and funny professor. The class is easy and honestly kind of fun. There is a group project at the end which was also very fun and interesting. You can get away with skipping, but make sure you do the homework assignments and read his notes.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 3 | Grade: A]
+Mostly reads from ppt slides but does do helpful coding examples during class which is the only reason I went to class, posts everything on elc. Three projects (two of which you can work with a partner on), 7 lab assignments, and two exams (non-cumulative and cheat sheets allowed). Not a difficult class if you just show up and listen occasionally.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 4 | Grade: B]
+Class would've been a lot easier if it didn't get so crammed towards the last few weeks of the semester. Everything is taught from PowerPoint but he provides examples on complex concepts. Allows cheat sheets on exams. Labs and projects were hard for me, but my TA helped a lot.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 2 | Grade: A]
+I get why he has a bad rating, but I thought he slayed for 1730. It is very lecture-heavy content, but you could learn that on your own since attendance isn't mandatory. He is very understanding and helps with labs/projects. The course does have a weird pacing which is rushed/crammed during finals week, but it's doable.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 4 | Grade: B-]
+Peng is an average professor, he doesn't teach very well, so expect to learn the content yourself. The class was poorly paced and ended up cramming all the projects toward the end of the semester. He is understanding when it comes to student concerns and will give extensions when needed.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 2 | Grade: A-]
+Hao Peng is really a blank slate for you to be a student on. For 2610, to really understand anything, you need to do practice problems yourself. He walks you through every step, and attending class is the only way to get solutions. HWs are just slightly modified in-class problems, and he let me turn in late HW for full credit.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 3 | Grade: B+]
+Not sure why Peng gets such a bad wrap, I found the class to be quite manageable. Though just a little bit disorganized, Peng explains the material well and provides you plenty of time and resources to finish assignments. He does not go overboard with the difficulty, but it is a fair challenge. Overall imo a very solid pick for 2670.
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 3 | Grade: B]
+Peng did the bare minimum as a prof. Like youll get through the class, but i never felt like Peng cares about his students. For the first 2 months of class he was late.
+
+[Course: CSCI2610 | Quality: 2 | Difficulty: 5 | Grade: ]
+what are he talking about on the class He was sometimes a few minutes late, and he taught with only a text editor. And he jump so fast that the process of some problems was not even complete
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 4 | Grade: B+]
+Extremely unorganized lectures where he does nothing but go on tangents and murmurs to himself. The pacing is terrible where you have labs and projects due on the same night. There wasn't any other professor teaching 1730 when I took it but I wish there was.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 3 | Grade: B]
+2 exams made up more than 50 percent of your grade. Horrible pacing in the class, all 3 projects were in the second half of the semester. Most of the class was Peng reading off slides which were very boring and hard to pay attention to. Exams were fairly difficult, but the labs and projects were not too bad imo
+
+[Course: CSCI3360 | Quality: 2 | Difficulty: 1 | Grade: A]
+Dr. Peng made this class a lot boring. The concepts taught in this class are interesting and beneficial for future, but Dr. Peng just reads them from the slides and takes no effort in explaining them. I would not recommend taking any class with him if you want to learn anything from the class. It is an easy A class but you would learn nothing.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 3 | Grade: A]
+Peng is a great guy and a decent professor. Class is taught through PowerPoints and he uses examples of certain concepts on Odin. If you have questions or are confused about a topic meeting with him should be your top priority. The lectures can be slow and you need to put the work in outside of class and if you want an A.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 3 | Grade: ]
+I liked Dr. Peng less and less as the semester went on. The pacing in the course isn't great. We get used to a schedule of 1 lab every 2 weeks and then suddenly we have a lab due the same day as a big project and the dates overlap so you're suddenly flooded with work near the end. Sometimes he's funny and relatable but he just reads off slides.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 3 | Grade: Not sure yet]
+Poorly paced class - most of the work was put towards the last month or two of class, instead of being evenly spread out. Lectures just consist of him reading off slides. Test questions were sometimes confusingly worded, but that's just the usual for CS exams. Not many projects however, and he gives you the option to work with a partner sometimes.
+
+[Course: CSCI3360 | Quality: 1 | Difficulty: 1 | Grade: A]
+Class is solely him monotonously reading notes, never attempting to explain concepts further than the notes do. While the only assignments are homework, they teach things that don't happen in the real world, giving students false impressions of how machine learning works. You would receive more benefit from a text-to-speech engine and a textbook.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 2 | Grade: A]
+Great professor. He explains things in detail and makes sure you understand the materials by providing more examples. The course requires some efforts, but he is not a rough grader. Definitely recommend.
+
+[Course: CSCI2610 | Quality: 2 | Difficulty: 4 | Grade: ]
+Knows alot of the material in depth but simply lacks the ability to effectively teach the material. He rushes through the material and doesn't provide adequate explanations to new concepts. Be ready to just relearn everything from class on youtube/chegg cuz he will make you more confused then when you first came into class.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A]
+Ive taken classes with Dr. Peng multiple times and hes always a great choice! Hes very willing to answer questions and help when you ask for it. His tests are on the difficult side(I think) but totally doable if you study and have a good grasp of the concepts. Not an easy A professor, but if you put in the necessary effort its a great class.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+Dr. Peng is a good professor at explaining the topic itself, and reinforces the concepts by going through example problems. The homework is not too difficult if you pay attention in class. The weekly quizzes also follow the lecture, so they aren't bad at all. His tests focus mostly on quiz concepts rather than the homework. Overall, a solid choice
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 3 | Grade: ]
+I have no idea what some of the other reviews are talking about. He is genuinely one of the most caring teachers I have ever had, and made this class suck a lot less than it should have. he kind of feels like your cool and wise older brother at times.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 4 | Grade: Not sure yet]
+Peng is one of the most amazing teachers I have ever had. Our whole class loves his character. The class is hard, and the work is extensive, but it's discrete math. It's not supposed to be easy. He genuinely cares about each student's individual success and he gives you room to succeed. If you reach out to him, he will do whatever it takes to help.
+
+[Course: CSCI3360 | Quality: 5 | Difficulty: 3 | Grade: A]
+Professor Peng is knowledgeable but also understands that students probably don't have an extensive background in data science. The class covers basic models and the math behind them and asks you to apply them through the homework and group project. If you like data science, you'll like Dr. Peng's class.
+
+[Course: CSCI2610 | Quality: 2 | Difficulty: 4 | Grade: Not sure yet]
+Discrete math is about as interesting as watching paint dry. Peng is a decent professor who is knowledgeable. However, his lectures are dry and he does not make a good effort at ensuring you understand the material. Also if you miss one part of a question, you get the whole question wrong. Unnecessary stress and bad grading criteria. :(
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 4 | Grade: A-]
+For someone with 0 prior programming experience, this was a tough class. The projects and labs were fine &amp; really were one of the biggest sources of learning/understanding of concepts for me. However, Professor Pengs tests were so so difficult &amp; meant to trip you up. The class itself wasnt bad, but his tests can be the difference between an A &amp; B
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: B-]
+Avoid this class at all costs if you are a beginner to programming. The labs and projects are straightforward, but tests are extremely hard. His tests ask questions about the most unimportant details about programming and are meant to trip you up. His lectures are also not the best, and he is bad at explaining key concepts.
+
+[Course: CSCI2610 | Quality: 1 | Difficulty: 4 | Grade: B]
+I did not enjoy Professor Peng. The class was so lackadaisical but then the tests were very hard. Briefly reviewed reading from the night before and then gave mandatory group worksheets. Physical papers but they had to be turned in online to ELC. Doesn't give clear explanations for how he solved a problem or why he did something a certain way.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 2 | Grade: A-]
+Dr. Peng gave us a good combination of lecture and classwork. The material is fairly simple, and as long as you show up to class or read the material you should be alright. I do recommend going to class, however, the classwork can be done on your own time. Don't forget to turn in classwork and homework because it is a decent part of your grade.
+
+[Course: CSI2610 | Quality: 1 | Difficulty: 4 | Grade: ]
+Professor does not teach one bit. He reads off the lecture slides and sometimes rushes the lecture. Would not recommend taking him.
+
+[Course: CSCI2610 | Quality: 1 | Difficulty: 4 | Grade: B-]
+He just reads off of the slides that are poorly made and hard to understand. Then throws a worksheet at u to figure out yourself.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 5 | Grade: Drop/Withdrawal]
+Mr. Peng was a nice guy and nothing against him- but this class is impossible if you have no programming background, unless you literally dedicate several hours each day to practice. Workload is ridiculous for a beginner class. Dropped&amp;took it at another school and made an A- if you just need this one course for your major I suggest doing the same.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 5 | Grade: ]
+Hao Peng is very knowledgeable but unfortunately a pretty bad teacher. He will read the slides for you for an hour and then apply tests on stuff 3x harder than what you see in class. Labs/projects are fair and straightforward, the main issue are the tests which require plenty of studying and preparation due to the professors lack of teaching skill
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 3 | Grade: A]
+I had him for 2610 and also for 1730, and I enjoyed both classes. He cares that you understand the material, and he's interesting and funny enough to keep you awake during lecture. Obviously a pretty smart person.
+
+[Course: CS1301 | Quality: 1 | Difficulty: 5 | Grade: Rather not say]
+Nah, man... nah
+
+[Course: CS1301 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+This is the worst professor I've ever had. If you have him for CS1301 then get ready to learn everything on your own because he's just so unhelpful. There is not even any motivation to go to class because he skims over slides and gives a tough exercise right after. If you have no programming experience, I urge you to avoid this man at all costs.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: C]
+Took this class before at a previous college and was still completely lost. Once past introductory slides, class becomes extremely difficult, mostly due to his strange lectures that are hard to understand/follow. Isn't the most respectful/genuine professor either. Don't collaborate , they will accuse you of cheating and knock a letter grade off.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: Drop/Withdrawal]
+By far the worst professor I have ever had, he is completely disorganized, very slow during lectures, and if you take his class you will be very behind compared to many of the other CS classes. He does not prepare you well at all for the tests especially because he does not write the tests. The class is already hard and he makes it even worse.
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 4 | Grade: A]
+This class requires you give it some time before the tests. IF you start studying though about a week before the test a few hours a day you will be fine. Just do book problems. THEY WILL BE THE TEST QUESTIONS.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 3 | Grade: A-]
+Hao Peng is a great guy. He's a good teacher for a fairly difficult subject and it helps when he slows down to reexplain something. If you're confused about some topics, he does work with you outside of class to understand it better. He's a caring person who wants to see all of his students succeed.
+
+[Course: CSCS2610 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Great teacher for discrete. Tough subject, but he explains it clearly and works through every problem you have a question on. Class is interactive and he always considers what you have to say. He is a little of a push over though which is why I gave him a 4/5 rather than a 5/5. He can get distracted by class questions and not get to new topics fast
+
+[Course: CSCI2610 | Quality: 3 | Difficulty: 3 | Grade: B-]
+Professor Peng is an extremely smart professor and you can definitely tell during class. He teaches the information in the best way possible, but Discrete Math as a subject is simply difficult to learn. It is a lot of random topics thrown at you in a random order. Do not go into this class and expect it to be easy, it is not. Cheat sheets for tests

@@ -1,0 +1,238 @@
+Professor: Yiheng Liang
+Department: Computer Science
+Overall rating: 2.3  Difficulty: 3.6  Would take again: 33.3333%
+============================================================
+
+[Course: CSCI4050 | Quality: 2 | Difficulty: 1 | Grade: A]
+The course is light, but it's definitely a class where it's what you make it out to be. His lectures are monotone and boring, and he has a heavy accent. I will say I learned a lot from his homework, however. They helped you understand the material, but the overall structure of the class was quite disappointing for a class I was looking forward to.
+
+[Course: CSCI4050 | Quality: 1 | Difficulty: 2 | Grade: A-]
+Dr. Liang is not a great professor. His lectures are extremely boring and his accent is difficult to understand. He's an extremely hard grader. Regardless of that, the class is very easy.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 2 | Grade: A]
+I desperately wanted to give him above 2 stars, but he has a very difficult to understand accent. VERY difficult. He's knowledgeable about the stuff I guess, but his lectures are hard to focus on or understand. IF YOU HAVE GOOD CODING EXPERIENCE THIS CLASS IS A BREEZE! If you have none, SELF TEACH, the lectures won't help.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 5 | Grade: Not sure yet]
+Tends to ramble and often emphasizes the &#8220;weed out&#8221; nature of the class, which isn't encouraging for beginners without prior background. Later lectures didn't prepare well for the time&#8209;consuming labs, and no extra practice was provided outside of notes/quizzes as a way to study leading to me to rely on other resources.
+
+[Course: CS1301 | Quality: 3 | Difficulty: 4 | Grade: B+]
+Mr. Liang really seemed to care for the students and occasionally made jokes which not enough people laughed to. Not the best at teaching the course material but if you end up with him its not the end of the world.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: B-]
+This class is designed to be difficult but Dr. Liang somehow makes it worse.  His lectures have no correlation with the ongoing projects and labs and he rambles a lot. I didn't learn anything useful in this class. Don't bother asking for extra credit b/c he doesn't give any.
+
+[Course: CS1301 | Quality: 2 | Difficulty: 3 | Grade: B]
+Be prepared for long lectures that could have been summarized in 15 minutes. Lots of quizzes, labs, and projects, but very doable and mostly fun. Two exams that accounted for 50% of the final grade. The exams can be tough for beginners and can drop final grades very easily. The textbook helped a lot.
+
+[Course: CS1301 | Quality: 2 | Difficulty: 3 | Grade: C+]
+Dr Liang is very caring, however he tends to ramble a lot. This paired with his accent makes it very difficult to actually absorb anything in class when it's surrounded by 50+ tangents. Grading for the class tends to be quite anal, as labs are graded by software so any slight spelling or capitalization difference leads to missed points.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 3 | Grade: Not sure yet]
+This professor is very knowledgeable, however, I felt like sometimes going to class was a waste of time due to how much he rambles. Graded by few things, Project, quizzes, and a midterm and final exam are the only 2 tests.
+
+[Course: CSCI4050 | Quality: 2 | Difficulty: 1 | Grade: B]
+I found this class to be a complete joke and waste of time. The material could be summed up in a 10 minute video. The final project was the only thing that mattered and odds are you will be placed in a group that has no idea what they are doing. I did 95% of the work because these kids didnt know how to use html or how to show up to meetings.
+
+[Course: CSCI4050 | Quality: 5 | Difficulty: 1 | Grade: A]
+I took Dr. Liang for 1301 and 4050 and had a positive experience both times. Although the first day of class he really does sound like a stickler for participation, he's extremely understanding about missing in-class assignments if you email him. His exams were straightforward. He's definitely not the organized, but he makes up by being lenient.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 3 | Grade: A]
+Class isn't too hard, but he does not know how to teach. He often takes the entire class time to teach one line of code. Super picky grading as well.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+The worst professor at UGA. He does not reply to emails and his teaching style is poor. Do not take him.
+
+[Course: CS1301 | Quality: 3 | Difficulty: 4 | Grade: A+]
+Dr. Liang is a decent lecturer, and he definitely knows what he is talking about, but he rambles a lot. He also really enjoys when people struggle/fail in his class, so you need to work hard.
+
+[Course: CSCI1300 | Quality: 1 | Difficulty: 3 | Grade: C]
+Dr. Liang is an okay lecturer, yet there's a concerning lack of transparency in his grading policies. The day of the final exam he informed us that exam grades wouldn't be disclosed; rather, he'd determine our final grades himself. This seems unjust when the exam weighs in a quarter of the overall grade.
+
+[Course: CSCI4050 | Quality: 5 | Difficulty: 2 | Grade: A]
+Was apprehensive since he's never taught Software Engineering before, but overall I've had a very positive experience. Although he's not the most organized and his accent is fairly heavy, he's very kind and understanding if you just reach out to him. The midterm exam was straightforward I feel as though he's a pretty lenient grader.
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 2 | Grade: B+]
+One of the better CS profs I've had at UGA. Has a fairly heavy accent but is very kind and understanding if you just reach out and talk to him.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 4 | Grade: B]
+I had him my first semester here and the class was difficult for me having not done any coding before. Not the best lectures in my opinion but an A is very doable as long as you keep up with the notes and learn from the assignments. Two exams that make up 50% of the grade, lots of labs and projects, plus quizzes.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 3 | Grade: A]
+In my opinion, he is not as bad most reviews say, though he will be difficult if you're new to CS (or if you have skill issues). The class is very standardized so there are clear requirements from students. Attendance was not mandatory, and the final was easy imo.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 2 | Grade: A]
+Worst instructor I have ever had in my entire 19-year life. Taking away 30% of my lab grades for misspelling a single word. When I asked him any question, he was just so defensive and never tried to actually address the problem. He was so proud of his class being rigorous and having a high failing rate. Always try to trick students. Just don't.
+
+[Course: CS1301 | Quality: 3 | Difficulty: 3 | Grade: B+]
+This class is hard if you do not have previous knowledge in Java or other coding languages. I already took this class in high school and retook it and it was still difficult for me. He is hard to understand sometimes in lecture because he talks very fast. Labs are unusually hard for a beginner class.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 3 | Grade: A-]
+He has very helpful explanations in class and develops a good understanding of the nuances of the course. I believe that he truly cares about the students, and the difficulty that most people have is with the course more than the instructor. CSCI 1301 is just a hard course. Be careful, labs and quizzes will trip you up and can be low grades easily.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 5 | Grade: B]
+Dr. Liang is a half-decent professor who catches a lot of slack due to how difficult the course he teaches is. The class is all lecture but having some form of Java knowledge is critical to do well in the class. Dr. Liang is a good professor, but prepare yourself for a lot of work and coding that is consistent in all CS classes.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 4 | Grade: ]
+In my opinion, he's definitely not a terrible teacher, nor is he an excellent teacher. If you actually pay attention in his class and attend most of his lectures, you should be good. Although there were some concepts that he didn't explain the absolute best, you eventually get it after a while because he makes sure to show you examples in class.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 3 | Grade: ]
+I was discouraged to take this professor at first, but I really enjoyed him this past semester. In order to succeed in this class, you need to pay attention to his lectures and ask any questions (even with labs and projects). He is truly a nice guy and doesn't purposefully try to harm your grade. Computer Science is hard, don't blame the professor.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 3 | Grade: C]
+Dr. Liang can be scattered and hard to understand at times, but he isn't a bad professor. The only bad thing about this course is the grading (especially for the lab) is quite harsh. For example, I forgot to capitalize one word and got a 76%. The lab section is handled entirely by TAs though so can't even really blame him for it.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+Do not take 1301 with this dude under any circumstances. 50% of grade is based on two tests. He does not provide any study materials for these, even the final. His announcements to the class, and email responses, are often rude and condescending. Lectures are nonsensical, and powerpoints are hardly insightful, despite these being all he provides.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 3 | Grade: A+]
+He isn't bad. Taken a few years ago, he has a very strong accent, and many of his tests were based on information from class. All you have to do is follow along in class, take notes, and really write down code examples. Extra clarification was needed infrequently, even with no prior Java experience. It really just takes some effort.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: F]
+For CSCI 1301, this is the worst lecturer you will ever have. Please, if you can avoid him at all costs, do so. He really takes pleasure in giving you poor grades, and his accent is very evident. This is not an introduction, so come with some Java knowledge. Be prepared for this class.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 4 | Grade: ]
+Idk why he gets so much hate; he seems very sweet and caring. Heavy accent and yes boring lectures but he does what he needs to. All assessments are nicely spaced with only 2 tests. I do only recommend this course for ppl who have experience in CS. I only did bad bc I suck at CS, not bc he is a bad professor. Maybe not the best, but still great !
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: B-]
+Whether you have CS experience or not, DONT take this teacher. He is awful. Doesn't care for the students whatsoever. Was the only teacher to offer zero extra credit/help. His lectures were a complete waste of time. His sole purpose was to get us to fail. Tutoring is vital to passing this class. Use the java book to understand concepts. Good luck!
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: B+]
+DO NOT TAKE HIS CLASS. His lectures are super hard to follow, he just reads over a couple slides and does a few examples. He does not care about his students' grades or learning at all. The midterm and final is 25% of our grade and there is NO study session or study guide. unorganized, no extra credit, & does not provide right answers for quizzes.
+
+[Course: CSCI1300 | Quality: 1 | Difficulty: 5 | Grade: A-]
+This class was very useless. The lectures were unorganized, impossible to follow and there was never any explanations given, only examples done on the projector quickly. The entire class was graded on a few confusing quizzes and poorly written tests.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: A-]
+dont even try it two tests make up 50% of ur grade. labs and projects are not too bad but grading is extremlly harsh, if the output requires ONE capital letter and u have a lower case its an immediate 10 points off. lectures are extremly unorganized and u learn nothing. if u taking it first semester, learn java over the summer. if 2nd sem good luck
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: D-]
+Prof Liang assigns quizzes that are DELIBERATELY written to confuse you, not to test your knowledge. If you ask a question that is not specifically within a class example he cannot explain it or answer it. I wouldn't recommend my worst enemy to sign up for this professor's class. Extremely pedantic, unhelpful, and rude responding to emails. 0/5....
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: F]
+He basically admitted he enjoys giving out bad grades to his students.. He would show up with bed head every single class, read off the slides, and code some basic examples that weren't useful. He is literally unable to explain concepts such that beginners would understand it. He can't answer questions and blames the student for not understanding.
+
+[Course: CS1301 | Quality: 1 | Difficulty: 5 | Grade: ]
+Professor Liang is extremely intelligent and he wants you to know that. Despite this, he is unable to explain concepts in a way that beginners would understand. The grading is excessively harsh and one bad grade will basically fail you for the semester. He doesn't provide a good environment to learn in and I wouldn't recommend anyone take his class
+
+[Course: CS1301 | Quality: 2 | Difficulty: 4 | Grade: C]
+Dr. Liang seems like a super nice guy, his lectures were just not helpful. He stands at the front and codes with little to no explanation. The class itself would not be bad if you're experienced in cs. I had to teach myself all the material with little to no prof/ TA help. Two paper exams that make your grade. Not something I would do again.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 5 | Grade: Drop/Withdrawal]
+I withdrew from his class, he gives us a talk at the beginning about who should drop. This is a top 10 difficulty undergrad class at UGA even though it's an intro. DO NOT TAKE IT unless you already know how to code in java or you're very good at learning java on your own.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: C]
+this class is a pain. if you dont HAVE to take it, dont. the lectures don't relate to the labs and projects and nothing relates to the exam material. the labs and projects take up so much time and do almost nothing for your final grade, it all comes down to the midterm and final. for an "intro" class it's impossible to keep up.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: B-]
+This course gave me PTSD. I have no words for how awful this was. I have gone through the UGA chem department and I would rather take them any day than this course. The lectures are completely unhelpful as in he did not give lectures that helped with the assignments. Like he didnt teach anything. I hope you have tech friends who know how to code.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: B-]
+The problem with this class is that although you may have a really high project and lab average, that only makes up 30% of your final grade. The midterm and final are 50% and are very difficult. He is never available for questions, which leaves you to ask the TAs who want to be there even less than you do.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: A-]
+Almost impossible to get an A (94). TA's grade ruthlessly, and will take off points even when not specified in grading. Liang is condescending, and in many cases gives incorrect information. Unclear grading, mediocre lectures, and overall waste of time. He once told me he LIKES giving Bs and Cs because "scars drive people forward." Regret taking :(
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 4 | Grade: B+]
+The labs are graded ruthlessly by the TAs, and the projects later in the semester take many days to complete. There are two tests that are 50% of the grade, which are hard and cover material not on the ppt. There is no extra credit, so it's nearly impossible to get an A (which is a 94) and your grade will suffer if you mess up on one assignment.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 5 | Grade: B+]
+Although he posted all the PPTs, quizzes and the final were still so detail oriented, with some information not covered in the PPTs. He assigned labs every week, and sometimes had a quiz and project also due the same week. The class was still hard even with some coding languages, and he offered no help with the labs. TA's were ruthless with labs.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+Hard class if you don't have coding experience. Biweekly quizzes, labs weekly, a project biweekly too. Only 2 tests, which are 50% of grade, and are hard. Lots of work outside of class. Prof isn't much help, if any. He's hard to understand and very rude (esp via email). Doesn't give excuses for anything, so turn things in perfectly, and on time.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+The worst prof at UGA. Doesn't care abt students at all. Any reason my assignments were late (not often) were not taken into account, even if proof was given. Lectures were not that useful, talks really fast to understand. Ppts are posted on eLC, only good part. Isn't accessible outside class for help. Responds to emails fast, but very rude.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 4 | Grade: B-]
+This class is unnecessarily hard. The TA's grade really harsh and as someone with no coding experience coming into this class, I've never felt so underprepared for the final exam even after studying a lot. The quizzes and tests don't check to see if you know the concept or not. They deliberately use wordplay to trip you up.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 3 | Grade: A-]
+eh, lectures can be hard to follow, have coding experience before you come to this class because you will be lost
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 4 | Grade: Not sure yet]
+Dr. Liang is knowledgeable about the material, but he is not the best at teaching it. The course is not spread out properly. There are weekly labs and sometimes there are projects and quizzes at the same time. The TAs grade hard, so make sure you thoroughly check your work before submitting it. Definitely requires more work outside of class.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 4 | Grade: ]
+Class isn't too bad if you don't skip but if you do he has PowerPoints that he posts online after the lecture. He is very passionate about what he teaches. Nice in person but the rudest ever via email. If you email him ANYTHING it will be the most passive aggressive response imaginable. TA's are picky when grading. It's an okay class though.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 4 | Grade: B-]
+Nice guy but lectures are extremely boring and can be hard to understand. Labs are difficult but the TA will be your best friend if you ask a lot of questions. Grading TAs take points for anything so pay attention to detail. The two tests are confusing for no reason and are 50% of grade. Definitely a difficult class if you have no coding experience
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 4 | Grade: A-]
+Not the best. He knows what he's doing, but he's not the best at teaching. You're better off coming in with some experience in code; otherwise, you might not do well. The class itself is not tough if you have experience, but the tests are very hard. Never needed/read the textbook. Never got our grades for the final either because we all did so bad.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 4 | Grade: B]
+Professor Liang is a really nice guy, but unfortunately not a very good professor. He never posted a class schedule all year, our quiz grades were never accessible, and his teaching style was not very effective. If you don't have any previous coding experience then this class will be quite difficult.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 3 | Grade: B]
+Honestly, you need some previous Java experience to do well in this class. I took APCSA in high school so I didn't struggle as much as others. Liang is nice, but his way of teaching is inefficient and boring. Everyone has their laptops open during class, so who knows if people are actually paying attention or playing 2048 for 75 minutes.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 3 | Grade: A]
+Dr. Liang is DEFINITELY a better option than Lamarca for 1301 students. His lectures were hard to follow at first, but paying attention in class is super important because he codes examples and strategies we would use for labs. I came in with no coding experience at all before this class and I was able to get an A, but it required studying a lot.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: A-]
+Liang is not accommodating at all. If you miss a test he will not let you make it up. Lectures are disorganized and tests are unnecessarily confusing. If you are not experienced in coding this class will be extremely hard. Undergrad TAs grade all the labs and they grade ruthlessly, take off points for the smallest things. Impossible to make an A.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 4 | Grade: B+]
+I entered this class with some prior Java experience so I wasn't too dependent on his lectures. Thank god, cause they were NOT good. His accent is fine but his English is under par and lectures are disorganized. Labs are graded by undergrad TAs who grade ruthlessly. The two tests, which are a combined 50% of the grade, are unnecessarily confusing.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 3 | Grade: Not sure yet]
+He's a decent professor. Yes, he can be a bit hard to understand at times, but he genuinely cares about his students and listens to their feedback. He's very passionate about his teaching and gives an ample amount of time to prepare for quizzes. He is significantly better than Lamarca, so if you had to choose, take Liang.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 3 | Grade: ]
+If you coded before, this class will probably be a breeze. If not, It will probably be a struggle. He's got a pretty thick accent but is still understandable, his lectures are very boring, the TA's on the labs can be very hit or miss. Some can take off points everywhere while others will just give 100s.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 3 | Grade: A]
+Of the professors at UGA in the CS Department if you are choosing a professor I would definitely go with Liang. He is an extremely fair teacher and much better than Lamarac. I came into 1301 with some coding knowledge with made the class much easier. If you are struggling with topics the textbook provided will be a lot of help.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 4 | Grade: ]
+These bad reviews aren't a reflection of Yiheng, he is a good professor and is really passionate about comp sci. The bad reviews reflect UGA's computer science department-specifically intro. If you have little to know coding, this will be a challenge for you. Fast paced, TA's grade harshly. But he is a really great guy and put effort into his class
+
+[Course: CSCI1301 | Quality: 5 | Difficulty: 2 | Grade: Not sure yet]
+Honestly if you've got coding experience this class is light work. For those who have none, this is probably gonna be a challenge. I would suggest reading the textbook and going to tutoring if you are struggling. The 95 to get the 4.0 is kinda ridiculous but I really enjoy going to class and it is one of the few classes I'm not incredibly bored in.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 3 | Grade: ]
+UGA doesnt have many good 1301 professors and that's a fact. Liang is not amazing but he does try his best. His accent and stuttering make it a bit hard for him to understand but his lectures are pretty solid. Labs and projects are graded by TAs and theyre very harsh on it but you can go to Liang to ask for some points back if it wasnt fair grading
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 3 | Grade: ]
+Grade is made up of 6 doable quizzes, one midterm, one final, labs/projects, and participation points. other lecturer for 1301 gave 13 hard quizzes and no participation points to help final grade. Followed a flipped classroom model and showed many examples rather than just reading off the powerpoint. notes are posted on ELC.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Makes me sad to see other people's reviews without them factoring in how good this professor is compared to other CSCI teachers at UGA. The accent is more than fine. Wish he would control the classroom better, but solid lecturer.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Liang tends to ramble a lot in his lectures, but he's otherwise a great professor. He cares about his students and is very willing to help your grade or explain something to you one-on-one if you don't understand - all you have to do is ask! 1301 is difficult if you have never coded before, so ask as many questions as you can.
+
+[Course: CSCI1301 | Quality: 4 | Difficulty: 1 | Grade: Not sure yet]
+His lectures may be slightly slow and he will stick to a topic for most of the class, but he was a good professor. The class itself wasn't hard and there was not a lot of homework, the only homework we got was a lab a week and maybe one project. The quizzes were mentioned in class before and grading was done by TAs, some graded harder than others.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+This guy honestly has no idea what he is doing. He walks into the class and starts lecturing while the rest of the class is talking. He doesn't know how to teach a class at all. The grade needed for an A is a 95 which is nearly impossible since you only have 1 midterm and a final. The labs toward the end of the semester take 10+ hours and are hard.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 3 | Grade: Not sure yet]
+Like I said, respected. I don't believe there is a professor who demands more respect than this man. Reading these reviews I can see the other students truly do have an immense amount of respect for him. He is quite possibly the most imperious man I have ever met. Take this class if you'd like to learn a thing or two about respect.
+
+[Course: CSCI1301 | Quality: 3 | Difficulty: 4 | Grade: Not sure yet]
+I think that he genuinely tries his best at teaching. Coding is very difficult and it is a difficult class, so going to the lectures definitely helps. A lot of students will sit in lecture and play games or do work for other courses... but if you take notes and copy the code he writes, it is very helpful towards our lab assignments and projects.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: ]
+I was so excited to start Comp sci- didnt have a lot of experience which should be fine in an intro class BUT this class failed me. I still feel so lost and I changed my major. TAs take off so many points for little mistakes. 2 tests, takes forever to grade things. Dont take this if you dont have a lot of experience coding.
+
+[Course: CSCI1301 | Quality: 2 | Difficulty: 4 | Grade: Not sure yet]
+Liang is a good professor if you have previous coding experience. If you don't, you're going to struggle a ton and will need help. I learned a lot from tutoring and online coding courses. Plus, if you tend to have a hard time understanding people with a thick accent, you will not learn anything in his lecture. Oh, and the TAs grade labs ruthlessly.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+If you have no previous experience coding then you will struggle in this class. I feel as if I was not taught how to code properly and the course moves very fast. Try to get some experience from a coding bootcamp and maybe you will do good. I switched my major after this class.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 3 | Grade: ]
+If your first language is english you will not understand what this man says. He has a very heavy accent. If you already have knowledge of java this class is very easy compared to Lamarca. If you don't, good luck if you take this man.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+I hope I will never see this person in my life again. His syllabus/explanations regarding any graded items are vague and unclear. He often notifies about the quiz at the last minute and acts like we only take his class. It usually takes 2 weeks or more for us to grade our 4 question quizzes and even longer for lab assignments. He can't teach either
+
+[Course: CSI1101 | Quality: 1 | Difficulty: 3 | Grade: ]
+Knows a lot about computer science, only graded on tests and final project. Goes very quickly and can be hard to understand. Tests were unnecessarily hard compared to the class. Did not feel like the lecture material prepared me for the exams. Very nice teacher but would not take again.
+
+[Course: CS1301 | Quality: 4 | Difficulty: 4 | Grade: ]
+Liang is a good professor and seems super passionate about CS. Lectures are super boring and you honestly don't need to pay attention if you just study the PPTs or textbook. Labs start easy but get hard as you go and the TA graders are hella strict. If you make a tiny mistake in your code you get a ton of points off so be careful with that.

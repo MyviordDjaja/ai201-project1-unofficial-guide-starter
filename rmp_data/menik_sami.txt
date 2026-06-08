@@ -1,0 +1,310 @@
+Professor: Sami Menik
+Department: Computer Science
+Overall rating: 2  Difficulty: 4.3  Would take again: 30.8333%
+============================================================
+
+[Course: 4370 | Quality: 3 | Difficulty: 4 | Grade: Not sure yet]
+he's on a similar level to cotterell imo, but he types so fast that it can be hard to keep up with class activities even when paying attention. lectures could be slow and boring. exams are fine if you pay enough attention and attend class reviews. projects felt like they were testing your knowledge of java not databases. pick your group carefully
+
+[Course: CSCI2725 | Quality: 3 | Difficulty: 3 | Grade: A-]
+His lectures are probably too slow, and he overcomplicates the explanations, because he doesn't want to draw it out on the board. Going too slow is better than going to fast, because you can still learn, even when it is boring. He has great resources, and clear expectations.
+
+[Course: CSCI2725 | Quality: 3 | Difficulty: 3 | Grade: Not sure yet]
+His lectures are pretty boring, but they do get the points across somewhat. He emphasizes this course as group project heavy, but it's mainly listening to lectures during class and occasional individual projects. I don't feel he does a great job at preparing you for tests, & the minimal assignments mean there isn't much of a cushion for your grade.
+
+[Course: CSCI4370 | Quality: 3 | Difficulty: 2 | Grade: A]
+He is not the best lecturer - he just tends to ramble and has a very monotone soft voice. He posts the notes, but the examples he does do not have the answers so I recommend going to class. Projects are pretty tedious so don't procastinate. Not the best, but easier than other profs.
+
+[Course: CSCI4370 | Quality: 1 | Difficulty: 1 | Grade: A+]
+This professor dumps a massive amount of busy work on students with zero regard for our time. The grading is a mess; I spent more time writing regrade requests for correct answers than actually learning. The final project required a 75-minute video presentation, which is completely unreasonable for a class assignment. Avoid if you can.
+
+[Course: CSCI4370 | Quality: 2 | Difficulty: 5 | Grade: B-]
+Lowest exam average I've ever had in a class. Spent so much time studying but he gave almost no examples to practice with. Plenty of graded activities but I would have to go off the 1 example given to us (from the textbook) and whatever else I could find on the internet. Class could be easy if prof was better at teaching.
+
+[Course: 1302 | Quality: 2 | Difficulty: 4 | Grade: A]
+Not great at teaching, but is a bit overhated imo. I didn't get much from the lectures, prepare to study for the hard tests. But, he is a nice guy and willing to help out from what I saw. VERY awkward during lecture. Unfortunately the worst 1302 option, especially compared to two goats in Barnes and Cotterrell, take them if you can and avoid Menik.
+
+[Course: 3360E | Quality: 4 | Difficulty: 2 | Grade: A]
+Professor Menik is a great teacher for this course. Each topic has it's own individual lecture video which are extremely useful. There's also homework for each week along with answers that are posted afterwards that are useful for studying. There's also a group project which is pretty easy, just don't wait till the last minute. I highly recommend.
+
+[Course: 3360E | Quality: 4 | Difficulty: 2 | Grade: A]
+I know he has gotten a lot of negative reviews in the past, but this summer online course was very straightforward and relatively easy as long as you keep up with the material. Grading was fair and lenient for the most part. I don't know what he's like in person but the summer online courses there is minimal interaction with the professor anyways.
+
+[Course: CSCI2725 | Quality: 1 | Difficulty: 4 | Grade: A-]
+He's a genuinely nice and caring guy but he's extremely hit or miss when it comes to teaching. I had him for both CSCI 2725 and CSCI 3360 and it was a night and day difference. He was very organized in Data Science I and had fair and clear grading standards and followed the syllabus closely. For CSCI 2725 he didn't even follow the syllabus.
+
+[Course: CSCI2725 | Quality: 4 | Difficulty: 3 | Grade: A]
+Very assignment heavy class- more homeworks than projects. He taught well and gave lots of extra credit. Group projects were doable- start early. The only problem I found was that he often assigned homeworks even when we had a test or project due the same week. He offered extra credit for just being in class. Very responsive to questions, and nice.
+
+[Course: CSCI4370 | Quality: 4 | Difficulty: 3 | Grade: A+]
+He must've changed the structure of the class because I do not understand the bad reviews. He was knowledgeable and was willing to help. I will definitely be putting some of the projects on my portfolio. Learned a lot. The tests were on par with the in-class activities and the projects felt like they had sufficient due dates. I definitely recommend
+
+[Course: CSCI4370 | Quality: 5 | Difficulty: 3 | Grade: A-]
+Don't listen to his other reviews from previous semesters, he must have changed the class because it was honestly not too hard. The content is super interesting, although the lectures can get boring. But the projects are very helpful if you want to break into SWE. Also the first 2 tests are so easy, the third one is a little harder. Def take him
+
+[Course: CSCI4370 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Overall, I thought this class wasn't too bad. He's clearly improved a lot since last year based on the reviews here.
+
+[Course: CSCI2725 | Quality: 4 | Difficulty: 3 | Grade: B+]
+Very friendly good vibes and clearly cares about the class doing well! He explains everything in great detail almost to the point where I feel he could be going faster, but I liked how extensive he was. Not sure where the awful reviews come from
+
+[Course: 4370 | Quality: 5 | Difficulty: 2 | Grade: A]
+honestly im not sure why Dr. Menik has such terrible reviews. I was terrified of this class before because of his RMP scores. BUT, he's actually really nice and seems to know a lot of DBMS and its application. He gives a lot of extra points just for trying and the coding assignments aren't that bad. Would recommend tbh
+
+[Course: 1302 | Quality: 1 | Difficulty: 4 | Grade: A-]
+The class was boring as he was just coding on the screen while occasionally asking questions. He was like in his world talking over an example project without really stopping for questions and when he did no one knew what he was talking about.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Do not take this professor he is the absolute worst professor I have ever had
+
+[Course: CS1302 | Quality: 3 | Difficulty: 3 | Grade: A]
+I don't have much to say about this class. The topics were interesting&#8212;mostly intros to higher-level courses&#8212;and Dr. Menik guided us through them bit by bit. His lectures are effective but a bit dull; it's clear 1302 isn't his main passion. Expect plenty of projects (that's just CS for you), and definitely READ the pre-lecture notes.
+
+[Course: 1302 | Quality: 4 | Difficulty: 4 | Grade: A]
+For 1302 he wasn't bad at all. Lectures were slightly boring, but explained the concepts pretty well. Projects are hard and time consuming, but if you finish early you get bonus points. Tests are really hard, but if you work hard in the class its not difficult to make an A or B. My advice, start and finish projects early, and read/do HW.
+
+[Course: 1302 | Quality: 1 | Difficulty: 4 | Grade: A]
+The class was only manageable because of the class materials provided by the other professors teaching this course. Take someone else.
+
+[Course: 1302 | Quality: 2 | Difficulty: 3 | Grade: A]
+Lectures were a drag and a half but had useful examples. Online textbook is used across the 1302 department, so you can ask other professors for help for needed. In-class experience is not fun; however, the professor is very useful and informative during office hours. Would not recommend!!!! But he's not as bad advertised and good outside of class.
+
+[Course: CSCI3360 | Quality: 5 | Difficulty: 2 | Grade: A]
+Dr. Menik a very nice person, and cares about his students. Lectures can be boring, but the notes are posted and the tests are simple. It is clear this course (Data Science I) is much closer to his field of work based on his extensive knowledge of the topics in class.
+
+[Course: CSCI3360 | Quality: 4 | Difficulty: 1 | Grade: A]
+i was worried because of the reviews, but this was the easiest coding class ive taken. im not even a cs major. u can play games in class and still ace it because he posts the notes. assignments are so easy. maybe he's harder in other classes but data sci 1 was a breeze tbh. he gave my group 100s for our project and we did the bare minimum.
+
+[Course: CSCI3360 | Quality: 4 | Difficulty: 2 | Grade: A]
+2 online exams, an easy group project, and small hw assignments. Extra credit too. I zoned out in class and still made an A since he posts all the notes online. I had 0 python experience before this class and am not a CS major, I still thought it wasn't too bad. Every once in a while he takes attendance. Lectures are a little boring but not hard.
+
+[Course: CS1302 | Quality: 1 | Difficulty: 5 | Grade: Rather not say]
+Don't take him. He has 74 now 75 1 star reviews for a reason ridiculous amounts of work poor teaching and overall a nightmare.
+
+[Course: 1302 | Quality: 2 | Difficulty: 4 | Grade: A-]
+This class is already pretty difficult and Menik just makes it harder. He's knowledgeable but is just bad at explaining things. The projects are not hard but extremely time consuming and the tests are increasingly harder as you go on. I would wait another semester to take the class if he is your only option.
+
+[Course: CSCI3360 | Quality: 5 | Difficulty: 1 | Grade: A]
+pretty good professor, cares about students and is very accessible outside of class. has very thorough lecture notes that are helpful and posts them to elc. very easy class. one group project. idk why people dont like him. super lenient
+
+[Course: 1302 | Quality: 2 | Difficulty: 4 | Grade: Drop/Withdrawal]
+Took him last spring, and ended up withdrawing (for personal reasons) from the class. He was not very engaging, and I constantly saw other people on their phone. Tests & projects b/t him and Dr. Barnes are about the same. I did not personally like him. He simply just wasn't that good at teaching.
+
+[Course: CSCI3360 | Quality: 1 | Difficulty: 5 | Grade: B]
+Try to avoid him if you can, he's a pain in the butt about everything really. He also is really bad at teaching, pointless and ineffective lectures. He kind of just codes in class and expects everyone to follow along without any type of explanation for what is going on.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: A]
+Easily one of the worst classes I've taken. CSCI1302 is already a hard enough subject, and Professor Menik has only made it harder and more inefficient. Our lectures were boring, slow, lengthy, and often did not even relate to the day's required reading. Tests were also hard and very different from everything else done in this class.
+
+[Course: 1302 | Quality: 3 | Difficulty: 2 | Grade: A-]
+He gets a lot of hate online but I didn't think he was bad. His lectures consist mostly of example code that can sometimes be copy/pasted into homework/projects and he loves people asking questions. A benefit of 1302 is that if you have trouble with the course, you can ask any of the instructors for help. Overall he's not as bad as people say.
+
+[Course: 1302 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+Lecture style is incredibly ineffective. Rarely explains broader topics, only goes over example code during the whole class. I have witnessed multiple times he has struggled to help confused students. In my opinion he is a lazy lecturer. Try to take the course with Barnes or Cotterell. Avoid him if you want to actually learn during lecture.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 4 | Grade: A]
+Just don't. I did well in this class, but you might not because I spent a stupid amount of time on this class because my other classes we comparatively easy. I was not goated last semester, just a no life because of this class.
+
+[Course: CSCI3360 | Quality: 4 | Difficulty: 3 | Grade: A]
+Nice guy, wants students to do well. Lectures are boring. Relatively easy group project towards the end. Attendance is semi-mandatory. Interesting material and tests are fair. 4 hws, ~8 activities, group project, midterm, final.
+
+[Course: CS1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Professor stinks at teaching.
+
+[Course: CS1302 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+Insufferable.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: B-]
+Try to evade this guy. Lecture is NOT ORGANIZED, makes me more confuse if I ask a question. What I am regretting the most is attending his lecture, and those total polls for bonus credit are like 1-2 percent of the overall grade, so if you're not in a desperate situation, I would recommend putting more time into either projects or homework.
+
+[Course: CS1302 | Quality: 3 | Difficulty: 4 | Grade: A+]
+While the class was managable if you completed the readings and took detailed notes. Lectures were unorganized - he didn't have slides and would just typing and asking questions and expected us to follow. He didn't post notes after class and I would be lost if I lost focus for a minute. Not a fan of the lecturing style.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: B-]
+Worst professor I have ever had. I took this class last Spring and his explanations were incredibly roundabout and confusing. I believe he might be knowledgeable about what he is teaching, but he has a very poor way of communicating it. I would recommend that no one takes his class, if possible.
+
+[Course: 3360E | Quality: 5 | Difficulty: 2 | Grade: A]
+This online class was very easy! Definitely take your time understanding the material and do all your homework. The tests are just like the lectures. The only downside is having to do a group project remotely. He only uses piazza to communicate but he replies fast and he is very helpful.
+
+[Course: CS4370 | Quality: 4 | Difficulty: 3 | Grade: A]
+Took this course in the spring, it was a good course. I'm not sure why it has bad reviews. The class was very engaging, and I learned a lot.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 4 | Grade: A]
+I think I learned a lot from this class. Make sure to keep up with the assignments and din't hesitate to ask questions.
+
+[Course: CS4370 | Quality: 5 | Difficulty: 4 | Grade: A]
+Good course
+
+[Course: CS4370 | Quality: 5 | Difficulty: 4 | Grade: A-]
+I enjoyed this class! I think he's a good professor and well informed on the subject.
+
+[Course: 4370 | Quality: 5 | Difficulty: 4 | Grade: A-]
+Good class!
+
+[Course: 4370 | Quality: 5 | Difficulty: 4 | Grade: A]
+Dr. Menik is an outstanding professor who excels in facilitating class discussions. He is knowledgeable and always willing to help students understand difficult concepts.
+
+[Course: 4370 | Quality: 5 | Difficulty: 4 | Grade: A+]
+Although the professor is new, he is very dedicated to the course. I found the class to be highly engaging and the course overall very satisfactory.
+
+[Course: CS1302 | Quality: 5 | Difficulty: 3 | Grade: A]
+The submissions are all wrong. Dr. Menik was the man! I made sure to read the pre-class readings and understand them so that when I came to class I usually just had one or two questions ready to fire off. Then he'd answer them well! The problem was no one asked questions in class. If you end up with him, ask questions, and he'll help a ton.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: A-]
+Sami Menik is an insecure professor who relies heavily on classroom engagement that he never receives. His lectures are confusing and very roundabout to the topic in question. He will defer questions until "later" only to never actually clarify anything. He is disrespectful to students with real questions but will elaborate on very simple topics.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+in general, the class itself is hard. regardless of your prof youre going to have to spend a lot of time doing the readings. menik just make the class even less enjoyable in my opinion. he seems sweet but any other of the professors would be better. on the bright side tho you can go to other professors office hours like barnes or cotterell.
+
+[Course: CS4370 | Quality: 2 | Difficulty: 4 | Grade: B+]
+Not good. Lectures are dry and don't help internalize the material. Questions on slides and in assignments are always hard with several layers of recursion - there is no simple example. No homework meant no grade buffer and no chance to learn on your own terms. Antagonistic course policies. He's friendly and he cares, but the class was a mess.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: Incomplete]
+Please listen to me. Do not take this course with Prof. Menik. The tests are all online for some reason, which wouldn't matter if they weren't IMPOSSIBLE. The projects are insanely time-consuming and he never covers them in class. There is BARELY any extra credit, and they are NOT forgiving with grades. The worst class I've ever taken in my life.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Difficult exams and group projects, and  Lectures were boring!
+
+[Course: CS1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+I did not like his teaching style. He honestly made me feel stupid at one point in his office hours. Hes a great guy but teaching this class isnt for him.
+
+[Course: CS1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Makes a intro level course very difficult!
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Not a good professor... His in class lectures don't make much sense and he always tries to make sure people understand, but whenever we ask questions he always gives a more convoluted answer than before.
+
+[Course: CS1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Avoid!
+
+[Course: CS1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+This was so hard. i tried so hard. im so sad. i taught myself everything. Good Luck Future Students!
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: D+]
+I'd advise anyone not to take a course with him (its for your good!). Incredibly difficult to understand anything he says during lectures. His exams and projects are hard for no reason and the material is more difficult compared to Georgia Tech CS.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Just run. If you see his name pop up on the course honestly just wait for the semester to be over. I used to like CS but i've never hated CS as much as I have with him teaching it.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: B-]
+Dr. Menik is by far the worst professor that I have had during my time at UGA. No one knows what is expected of them and there is a consistent F average on the exams
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Avoid at all costs!
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: B-]
+To be honest, I think a lot of these reviews are way too harsh. While the class is sometimes difficult and can be frustrating, I don't think it's THAT bad. Be prepared for some exams and projects that aren't really representative of course materials, but if you study and do your work it's not too difficult to receive As and Bs.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Easily the worst teacher I have ever had. He was very condescending towards multiple students in my class. As far as the class, I could have done better than I did had I done more outside of class. The material is hard but you will have to practically do it all yourself to do well. The tests and projects are ridiculously hard for no reason!
+
+[Course: CS1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Dr. Menik was the easily the worst professor I have ever had. I attended some office hours in order to ask questions, but he wasn't very receptive to answering. His test and group projects are insanely hard for no reasons. The class average for the test had to be below 55!
+
+[Course: CS1302 | Quality: 1 | Difficulty: 5 | Grade: B+]
+This was so hard. i tried so hard. im so sad. i taught myself everything. the exams were always not like the study guides and yeah.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Menik is a good professor for other classes, but not for CS4370 Database Management.This dude does not know what he's even teaching, and tests are hard  seemingly randomly hard for no reason . A friend and I struggle on the group projects. He grades them harsh!
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+This is the hardest course I've ever taken. By the first class, I was lost. I would try to approach him with questions and he would not answer me. Throughout the semester, everything was unclear and I should've just dropped his class in the beginning. Though I give him a bad rating, he does seem to care, AVOID!
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Worse experience and probably the worse professor at the University of Georgia. The professor is nice but his exams and projects are hard for no reason. I wish future students Good Luck!
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: B]
+He's a good guy and very nice but not a good prof. His exams and projects are hard for no reason!
+
+[Course: CS1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Dr.Menik is truly the worst professor I've ever had. His exams are so difficult because there impossible.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Awful experience.  Exams and projects are difficult and refused to help or curve the test grades. DO not take this professor, I repeat!
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+He knows his stuff but he doesn't care for his students. This is a very exam-heavy class. Have to do very well in all the tests to get an ok grade.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+This professor is literally the worst professor at UGA. He is the professor that does not teach the material, and make the exams and projects for no reason.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Very difficult professor and a harsh grader!
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: Incomplete]
+Terrible professor. The tests are same across all CS classes but the other professors actually teach and prepare you well, this guy doesn't. He has 0 power and no leniency. So basically, you have to be literally dying to get any extension, nothing else will get you one. His lectures are really boring. Course is outdated and not relevant today.
+
+[Course: 1302 | Quality: 3 | Difficulty: 2 | Grade: A+]
+If you don't like Dr. Menik, you can go to office hours with other professors/contact them via Piazza. His lectures are fine - sometimes boring. Don't procrastinate, work efficiently, and study for the tests (they're actually not as bad as people say). Sometimes he gives HW answers in the lectures so pay attention
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+not a good professor. The tests in this class are insanely hard.  AVOID AT ALL COSTS!
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+His class is a mess. If you value your sanity I would stay away.
+
+[Course: 4370 | Quality: 1 | Difficulty: 5 | Grade: Rather not say]
+Let me start this by saying Sami is a nice man. That being said that doesn't make him a good professor. Sami doesn't have good presenting skill which makes following his lectures difficult. He doesn't prepare his students for his exams well. All of the work he assigns is done in groups (if your group mates don't do well your grade will suffer).
+
+[Course: 1302 | Quality: 3 | Difficulty: 3 | Grade: C+]
+You MUST do the readings every night. I got behind and ended up turning in almost all my homework assignments late which are from the readings and it messed up my grade. Also the test are extremely hard and you just need to be a good CS test taker not just a good programmer. They projects can also boost your grade.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Did not learn anything in this class. It was a waste of my time and money. Exams are difficult and not an accurate reflection of the content we were "taught". For a database class, we barely did any actual SQL practice and application, which absolutely sucks since this an important skill to know for jobs/interviews. Take someone else if you can.
+
+[Course: 4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+No concept of deadlines, assigned hard and long projects that are BARLEY relevant to database, have to have multiple extensions because he'd only give a week to complete it. If you're in a group with random people, good luck and hope they actually do the work or you're going to fail. He's a cool dude though.
+
+Oh and exams are very hard.
+
+[Course: CS4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Hes a nice guy, but not a good professor. The tests in this class are insanely hard. I studied my butt off and still got low grades on them. 4 words: avoid at all costs
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+Very nice guy, unfortunately falls short. Not a great lecturer, and everything is mandatory. Has 0 leeway on anything, and does not give good feedback on projects and tests. When I asked how I could do better next test he said "You should try studying"(ok thanks!)
+
+Avoid this prof. I am potentially losing Zell bc of this dude.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+Nice guy. Very tough grader and doesn't give good feedback when asking questions on HW's or projects. The tests are also very tough and he gives no leeway on changing the exam times or trying to be accommodating. I would definitely take the other CS1302 professors.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: C-]
+RUN AWAY FROM THIS PROFESSOR!! 
+
+He is an absolute nightmare of a professor who has no mercy and 0 power when helping students with extra assignments or redemption. This guy is the most incompetent teacher I have seen over my 3 years in college and while studying at 2 different universities. Take it over the summer online at GSU!
+
+[Course: 4370 | Quality: 1 | Difficulty: 5 | Grade: ]
+Worst CS professor at UGA, DO NOT TAKE THIS CLASS!
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Professor Menik is one of my least favorite professors that I have ever taken at UGA. He does not allow you have any family/medical issues that cause you to be unable to take a test at the scheduled time, he will not let you reschedule the test. He is not very understanding or lenient about anything AT ALL!!!
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Tests are hard. You need to pay attention and READ. Overall pretty dang hard class.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Too hard, extremely specific exams. Expects too much.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Take the green reviews with a grain of salt. Yes, he's very good at teaching the concepts  but his exams are EXTREMELY hard. He puts more details in the exam than his lectures making it more challenging than it already is. Projects are long!
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+What a joke, this dude is giving HIMSELF good reviews and perfect ratings.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: ]
+Do not take this professor, just wait one semester for a better professor.
+
+[Course: 1302 | Quality: 3 | Difficulty: 4 | Grade: A]
+CS1302 is basically the same no matter who you have. The only thing different is how they lecture, which I didn't find to be super helpful and learned almost everything from the readings outside of class. Dr. Menik does a good job going through topics and gives tips for assignments in class. He is a nice guy I just found it hard to get engaged.
+
+[Course: 1302 | Quality: 3 | Difficulty: 4 | Grade: Incomplete]
+He clearly enjoys this topic. I think the class structure and difficulty are issues. Neither 1301 nor 1302 should be hard. Five projects, three tests. Several homework's. Projects are hard, homework is manageable, and attendance is inconsistent. Lockdown browser tests and class-starting polls.
+
+[Course: 1302 | Quality: 4 | Difficulty: 3 | Grade: A+]
+I was surprised by the amount of negative reviews for Dr. Menik. He really knows his stuff and always gives clear responses when you ask him a question. The lectures can get kind of boring but he tries to make it easy to understand. He's also very kind during office hours.
+
+[Course: 1302 | Quality: 4 | Difficulty: 3 | Grade: B+]
+Not a bad professor ngl, no idea why there are so many 1 star reviews. He's knowledgeable and nice. Work isn't too much, tests aren't bad.
+
+[Course: 1302 | Quality: 1 | Difficulty: 5 | Grade: Incomplete]
+Lectures are unhelpful and difficult to sit through. Expect to do hours of self-teaching for projects and tests due to not learning in class. Do not take Prof. Menik

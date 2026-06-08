@@ -1,0 +1,307 @@
+Professor: Bill Hollingsworth
+Department: Computer Science
+Overall rating: 3.1  Difficulty: 3.5  Would take again: 57.6923%
+============================================================
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 3 | Grade: A-]
+Hollingsworth is a good professor. He wrote his own textbook and it kind of falls off near the end of the semester in terms of how helpful it is. He's nice, and answers questions well, but his actual lectures are confusing, the material is difficult, but exams are straightforward and easy if you know the content. He's more helpful in office hours.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 4 | Grade: A]
+His lectures are very dull, and he doesn't post slides/notes. He types everything live in class, so *show up and take good notes* to do well. Three extra credit points overall from doing extra assignments. Pretty abstract material, and you'll have to self-teach a bit. Not undoable though, so best of luck!
+
+[Course: CSCI2610 | Quality: 1 | Difficulty: 5 | Grade: ]
+dont trust the 5 star they're bots
+
+[Course: CSCI2670 | Quality: 1 | Difficulty: 5 | Grade: ]
+He's a nice guy, but his lectures are just impossible to follow. You're better off taking someone else or just teaching yourself using easy theory. also the final is worth 30% so ur cooked either way.
+
+[Course: CSCI2670 | Quality: 1 | Difficulty: 5 | Grade: ]
+Avoid him if you can. He's really confusing and hard to follow. It's much easier to just study the theory yourself at this point, find a better teacher.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 5 | Grade: A]
+Hollingsworth is a chill guy but as a professor he's not that good. His lectures are boring + depressing and his exams are hard. He uses his own textbook for his lectures which are so hard to keep up with that you may as well just not go at that point. Good Luck...
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 4 | Grade: Not sure yet]
+Hollingsworth is is helpful during office hours but I rarely learned anything in lecture. Most lectures were not interesting, and not very helpful. Exams are difficult and graded kind of harshly. You have to know your stuff 100%, practice A LOT, and be prepared to learn most everything right before each exam.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 2 | Grade: Incomplete]
+Prof speaks about the content at a high level which makes lectures hard to understand. You'll have to self teach everything. It's easy to get a good grade BUT make sure you do things the way he describes in the grafstate textbook. Even if ur answer is technically right, you'll get marked wrong. 3 exams, 11 HWs, 3 exams. Exams look exactly like HWs
+
+[Course: CSCI2610 | Quality: 2 | Difficulty: 4 | Grade: A]
+Hard to understand.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 5 | Grade: B+]
+Hollingsworth is def a bad professor but I learned more content than I thought, just teach yourself the content. You have group assignments but if you want to save yourself from excessive studying just do the assignments yourself, for exams go back and redo them and you'll def get an A, very lienent on tests. failed exam 1 got an A on the final.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 3 | Grade: B]
+Very unavailable, and his TAs are genuinely infuriating. Attendance counts, but lectures are borderline useless. It is very possible to get a good grade in this class, and the coursework is easy, but expect to do it mostly on your own.
+
+[Course: CSCI2610E | Quality: 3 | Difficulty: 3 | Grade: A]
+This summer class itself isn't too hard, but the problem is the poor organization/communication. content is placed in random folders, and it's on you to find it randomly bc no one tells you new lectures are available. Emails take lightyears to get back, if he even does. mt/final is written in grafstate code so if you don't rmb syntax you're cooked.
+
+[Course: CSCI2670 | Quality: 1 | Difficulty: 5 | Grade: B-]
+He's a really bad grader and wants work done his way, or it's wrong. You have to go to office hours with a TA to fix any of HIS opinions about grades. He uses this textbook he made with ChatGPT to teach you, but half the time it's wrong or very vague. The lectures do have attendance, but they are hard to get through. Self-teach class. Do not rec.
+
+[Course: CSCI2150 | Quality: 2 | Difficulty: 2 | Grade: A]
+This class is extremely easy and thank god it is because I think if this class was hard it would be impossible. I'd recommend just showing up, hearing what you are supposed to learn today, and then going home and watching a YouTube video on it. He seems lost half the time to be honest. Thankfully he is a really nice guy so at least that's nice.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 5 | Grade: C]
+Dr. Hollingsworth clearly cares about his students, but good lord this class is not only super tough to begin with, but he takes the cake for the worst structured class I've ever seen. He posts nothing on eLc, and his lectures are IMPOSSIBLE to follow, he doesn't use slides or write anything on the board. Avoid if you can.
+
+[Course: CSCI2150 | Quality: 1 | Difficulty: 4 | Grade: C+]
+He is really bad at communication, I had to email him several times because he would end up ghosting me. He also is lost a lot of the times.
+
+[Course: CSCI2670 | Quality: 1 | Difficulty: 5 | Grade: C+]
+Very kind person, but not an effective professor. Lectures are hard to follow, and key concepts are poorly explained. Uses his own website instead of standard materials, which aren't helpful. Doesn't post on the course site. Exams are tough and poorly paced. You'll teach yourself everything. Avoid if you can.
+
+[Course: CSCI2150 | Quality: 3 | Difficulty: 3 | Grade: Incomplete]
+Content itself is not difficult. Dr. Hollingsworth's teaching is alright, but he does not post lectures. However, I would not recommend the lab section with Yulong. Lab directions are grammatically incorrect, lacking test cases, he is hard to understand, requires you to test your code in front of him, and there is random pop quizzes weekly.
+
+[Course: CSCI2150 | Quality: 4 | Difficulty: 3 | Grade: A]
+Hollingsworth is very patient. Attendance not required but he does not upload lecture notes and he doesn't use slides so go to class. Labs every week but easy ones. A lot of little grades and 2-3 big grades. Lectures can be a bit slow but there's no textbook to study so you can't just wing it on exams.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 5 | Grade: A]
+Dr. Hollingsworth is the GOAT
+
+[Course: CSCI2150 | Quality: 1 | Difficulty: 5 | Grade: Incomplete]
+If you get a guy named Yulong Wang as your TA, good luck. Absolutely atrocious grader, needs you to explain your code every single time you attempt to demo it to him. You 100% will not get a good grade knowing that he'll be breathing down your neck over every little detail. Dr. Hollingsworth should retire and let a new generation come in.
+
+[Course: CSCI2150 | Quality: 5 | Difficulty: 3 | Grade: A]
+Grafstate is okay. I recommend taking notes in your own notebook, so you don't have to worry about losing your notes if you forget to save, but I did assignments in Grafstate. Hollingsworth has tremendous amt of patience with ... interesting characters in class. The TA justifiably did not have same amt of patience with said characters, nor I.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 4 | Grade: C+]
+Very kind man. Terrible prof. Lectures are extremely difficult to follow; he's poor at defining, explaining, + demonstrating material. Uses his own website for the "textbook" (no useful content) + notes, but doesn't post anything on ELC. The first 2 exams are in October, covering a unit each. The final covers ALL 6 units, so terrible pacing. Avoid!
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 3 | Grade: C+]
+Never went to lectures or labs and got by. Pretty bad lecturer often not making any sense. Learned most of content from EasyTheory. 2 midterms (20% each), 1 final (30%) and 14 weekly homework (30%). Really boring content but exams were graded leniently as long as you made some sense. Expect to learn everything independently. Filler and boring class
+
+[Course: CSCI2150 | Quality: 3 | Difficulty: 1 | Grade: A-]
+He's lazy but the good kinda lazy. His homeworks and study guides are the exact same as his midterms and finals. Overall, this is probably the easiest math class you'll take that's required for the CS major. I got 100 on both midterms and skipped the rest of the class and got a 60 on the final and still got an A. Pretty chill
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 5 | Grade: A-]
+Dr. Hollingsworth is meh. His lectures are basically incomprehensible, but if you ask him specifc questions outside of the lecture, he's actually SUPER helpful. Theory is overall a difficult class just in a conceptual sense, which sucks. The exams are pretty difficult, just make sure to prepare by redoing classworks. Good luck.
+
+[Course: CSCI2670 | Quality: 1 | Difficulty: 4 | Grade: B+]
+It's a shame, TAs and former students have said he was solid in previous years but admit he's seen a pretty big dropoff this semester. Not sure what happened, but the way he approaches this class now is extremely disorganized. As others have said, his communication is abysmal. His lectures (and the Grafstate margin notes) are really hard to follow.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 4 | Grade: B+]
+Extremely uninteresting lectures. Will not post anything on ELC. Will spend more time figuring out Grafstate than actually completing homework. Lectures are near incomprehensive. Tests are difficult. Extremely poor communication with students. Must attend lectures if you want to know what is going on.
+
+[Course: CSCI2150 | Quality: 2 | Difficulty: 3 | Grade: A+]
+Hollingsworth does absolutely nothing to support his students or help them outside of class. He will not post any notes, study guides, anything. Genuinely the most unengaging lectures ever attended. Notes are incomprehensive. You will rely on YouTube. Proprietary Grafstate use is horrendous. 1st graders could take exams 1 and 2, final difficult.
+
+[Course: CSCI2670 | Quality: 1 | Difficulty: 5 | Grade: C]
+He's using Grafstate Margin Notes now instead of a textbook. He was literally writing the margin notes as we got to them during the semester, which is evident in how brief they got in the latter half. We're guinea pigs. He often forgets how to use Grafstate during lectures, which he himself developed and will start charging for next semester. Glhf.
+
+[Course: CSCI2670 | Quality: 1 | Difficulty: 5 | Grade: C]
+Smart guy, but a horrible approach to instruction this semester. He cannot maintain a single, coherent train of thought in the entire lecture, which is why less than 10 show up in a class of over 30 each day. Grafstate's margin notes were used instead of a textbook, which were esoteric, underdeveloped, and poorly explained. Avoid him or good luck..
+
+[Course: CSCI2610E | Quality: 1 | Difficulty: 3 | Grade: A]
+No course materials were posted until after add/drop, Dr. Hollingsworth was often unreachable for days at a time, and both exam timeslots were announced less than two days before the date. He requires you to use Grafstate for typesetting homework, which is incredibly poorly documented. The lecture videos were long, rambling, and often unhelpful.
+
+[Course: CSCI2610 | Quality: 2 | Difficulty: 3 | Grade: ]
+Hard to reach and lacking the communications necessary in an online environment. Lecture materials and homework were posted inconsistently and at random, with zero indication of pacing. His lectures are also very, very tough to follow, they go all over the place. Maybe he's better in person. He's a nice, smart person though.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 3 | Grade: A+]
+Kind person and very knowledgeable, but not great at teaching. Lectures were hard to follow, so you'll learn with YouTube. Homework was fairly difficult but you can work on it with classmates. Go to TAs for help. Two midterms and final were medium difficulty (but graded very leniently). Read margin notes on Grafstate to understand concepts!
+
+[Course: CSCI2150 | Quality: 3 | Difficulty: 3 | Grade: A-]
+Honestly the math in this class was pretty simple for the most part, but I learned better teaching it to myself outside of class. The two tests weren't too bad if you study, but the problem is that for the final you have to memorize a lot of formulas. Pretty silly imo, but overall the class wasn't too bad if you just start studying in advance.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 4 | Grade: B]
+Hollingsworth is a nice professor. However, he is not great at explaining concepts in class and I would avoid going directly to him for help on an assignment. If you really need help just go directly to the TAs/office hours. Austin Downes is the GOAT of all TAs. Lectures are extremely boring but extra credit is given. Overall not too bad.
+
+[Course: CSCI2670 | Quality: 1 | Difficulty: 4 | Grade: A]
+Dr. Hollingsworth is a great person, but a terrible professor. His lectures over complicate almost every topic in the class and you have no idea what is going on until you do the classwork, which varies widely in difficulty. He speaks in tongues and math language and it is so easy to just drown him out and not pay attention.
+
+[Course: CSCI2150 | Quality: 4 | Difficulty: 4 | Grade: A+]
+Sometimes his lectures were a bit confusing, but he never hesitated to stop and clarify if someone raised a question. He was very knowledgeable about the course content and I enjoyed taking it with him. Exams were difficult so make sure to study well.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 2 | Grade: A+]
+Really cool dude. His lectures aren't the best but he is very helpful when it comes to assignments. He also gives really clear guidelines for what you need to study to tests. Also lenient grader.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 4 | Grade: Not sure yet]
+This professor's nice but not a great teacher. Skip class; YouTube's better until Turing machines, which he barely covers. Midterms are okay, final's tough. If you can, choose another professor; if not, brace yourself and seek extra help.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 2 | Grade: A]
+The platform he created for the class is super helpful to study as well as do the assignments. He's very passionate and a very nice guy. Lectures are helpful with extra examples, but not necessary. Weekly hw which aren't too bad and exams come straight from these. Study the work/examples and you will be fine
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: A]
+The platform he created for the class is super helpful to study as well as do the assignments. He's very passionate and a very nice guy. Lectures are helpful with extra examples, but not necessary. Weekly hw which aren't too bad and exams come straight from these. Study the work/examples and you will be fine.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 3 | Grade: A-]
+Dr. Hollingsworth is a kind professor who definitely knows the material. You have to use a platform called Grafstate and you need it to do all the assignments (he gives weekly classworks). There are also 2 midterms and a final, but they aren't hard if you do the assignments. He is helpful if you ask him questions at his office hours or in class.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 3 | Grade: B+]
+He makes you use grafstate for everything in his class. If you do not know grafstate you will have to learn it. Two midterm exams and a cumulative final exam. Lots of assignments. A classwork assignment every week and then homework throughout the semester. You never really know what your grade is. Nice guy and cares about the subject.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 5 | Grade: A]
+Professor Hollingsworth is proficient in teaching, but struggles with effective communication and imposes challenging deadlines. The volume of assignments and tight schedules make it difficult to complete tasks on time. The final exam is notably difficult, increasing the likelihood of failure under his instruction. 3 exams, 20 HW/CW assignments. GL
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 4 | Grade: A-]
+lots of classwork/ homwork so there's lots of practice, lectures are interesting sometimes and sometimes only
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 4 | Grade: B+]
+Boring lecture and repetitive assignments. Gives a homework that is 3+ hours of work and makes it due from class time at 3 until 5pm. If there is another theory professor take them and save your soul.
+
+[Course: CSCI2150 | Quality: 3 | Difficulty: 2 | Grade: ]
+He's okay i'd take him if I had no other choice for this class. There's no textbook so either show up to class or show up just to review days so you can teach yourself the exam content using math videos. Very boring lecturer.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 2 | Grade: Not sure yet]
+His unwavering passion shines. Enroll in his classes like Discrete or Theory at UGA; he developed GrafState software used by others. Complex content, so take diligent notes for success. He can be a little funny but you have to be really nerdy to get him to chuckle. Ask a LOT of questions as he will keep going if nobody does.
+
+[Course: CSCI2610 | Quality: 5 | Difficulty: 2 | Grade: A]
+Online summer class is super easy. Only one homework every two weeks, a midterm, and a final. He's not very accessible by email and his website can be difficult to learn and use, but the course material is not hard at all. Read the textbook for more help too. I would recommend his summer class for an easy way to complete your discrete math credit.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 4 | Grade: A]
+Dr. Hollingsworth is a very respectable professor. His lecture style may be a bit difficult to follow along, but he does care for his students and gives extensions on assignments when asked. Highly suggest going to his office hours because he explains things much better there. Tests are straightforward and similar to the CW & HWs.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 2 | Grade: A]
+he is really nice and will help you if you don't understand something. lecture's aren't rly useful except for learning to use Grafstate for hw/cw bc it is kind of boring and confusing. make sure u can do the HW & CW and you will be fine on tests - YT will save you. there were 10 CW, 4 HW, & 3 pop quizzes (i think).
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 3 | Grade: Not sure yet]
+1. Grafstate: have to go to class to learn it
+2. cw/hw: Hard if you don't pay attention in class.
+3. Exams: Easy if you go to class, understand the cw/hw, and ask questions. All on paper.  (graded leniently imo) 
+4. Lectures: Boring cause you just watch him type notes out on grafstate, but you have to pay attention cause he doesn't post the notes
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 4 | Grade: ]
+He is very knowledgeable on the material and is clearly very experienced with it. He is not a great lecturer however and assumes that everyone is as comfortable with the topic as him. You HAVE TO go to class to learn how to code his website for the homework. Use youtube to learn. Tests are easier than homework and classwork.
+
+[Course: CSCI2670 | Quality: 1 | Difficulty: 4 | Grade: B]
+Dr. H doesn't post any of his lecture notes on elc, in fact, he refuses to. I often found myself teaching myself and relying on EasyTheory to work out concepts/ideas. All lectures and Homeworks are done on graftstate so I suggest anyone taking this class to get used to it. Challenging class with an even more difficult professor.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 4 | Grade: Not sure yet]
+Hollingsworth is a very nice guy. He's kind of boring at times and expects us to be very knowledgeable about these concepts. EasyTheory and NesoAcademy will be your best friends in CSCI 2670. If you do the classwork and homework and understand how to do those problems, the tests will be a breeze. He is very helpful during the breakout classes.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 4 | Grade: B]
+I really appreciate him being a kind person. However, I don't think he should be teaching college students. He struggles to maintain the students' attention. His lectures are super boring and hard to understand. YT videos were our best friends because his lectures were very confusing. He's pretty lenient when it comes to grading exams.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 4 | Grade: B+]
+The professor talks at a high level making it hard to understand when you know nothing about the material in the course. Go to his Monday classes for the classwork. I learned more from YT vids then I ever did from him. He takes a long time to see emails if he does see them that is. Use EasyTheory and Neso Academy on YT. But if u study, u r fine.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 3 | Grade: A]
+He has very confusing lectures for a hard to understand class, but try to take notes and COME TO HIS BREAKOUT CLASSWORK SESSIONS and ask questions. The homework and classwork makes up a majority of your grade, and you'll do fine on the exams if you understand it. Generally a kind and caring professor.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 4 | Grade: B+]
+Hollingsworth is incredibly smart and he created a website, Grafstate, that is very helpful for this course (use it to study!!). There's a lot of homework, and it takes a while but it's worth it for the tests. Lectures are dry but YT videos help a lot. He's a pretty easy grader on the tests and tries to give partial credit.
+
+[Course: CSCI2150 | Quality: 3 | Difficulty: 3 | Grade: ]
+Lectures are difficult to understand due to his use of Grafstate, a website created by Hollingsworth and also used for homework and classwork. It displays mathematical notations in a single line of plain text without any formatting so you may have you YouTube the entire class and teach yourself. Grafstate is only great for CSCI2670 Theory.
+
+[Course: CSCI2150 | Quality: 2 | Difficulty: 4 | Grade: ]
+Hollingsworth knows what he's talking about but he's not that great at relaying that info to students. He's not engaging at all either, you will want to sleep in his class even if you've never felt that way before. We are also required to use Grafstate which is capital A Awful in this course. It's confusing and we're never taught how to use it.
+
+[Course: CSCI2150 | Quality: 2 | Difficulty: 3 | Grade: Not sure yet]
+There seems to be a resounding amount of students who really love Hollingsworth as a professor, and he definitely deserves respect. However, if you're a student that relies on engaging lecture and multiple examples, you may find yourself struggling in his class. Definitely doable, but had to rely on youtube tutorials and outside sources
+
+[Course: CSCI2150 | Quality: 2 | Difficulty: 3 | Grade: ]
+I've taken several classes with Hollingsworth and a trend I see is from Discrete Math to Theory of Comp to Comp Science is the material becomes increasingly more complex and his lectures become increasingly more impenetrable. His lectures are probably the worst I've ever had in terms of engagement. He's decent choice for 2610 &amp; 2670. Bad for 2150.
+
+[Course: CSCI2150 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+Great Professor and a freakin genius. He does just kinda go through the material and it's kinda boring. The best way to take his class is to participate and ask questions and he goes super in-depth with answering them. You will have to use graftstate and it's sorta like learning math by typing it into a word document but you get used to it quickly.
+
+[Course: CSCI2150 | Quality: 5 | Difficulty: 4 | Grade: Not sure yet]
+Dr. Hollingsworth is hands down the best professor I've ever had. I'm taking 2150 after taking him for theory previously, and he's just as solid. Grafstate is an educational masterpiece and his dedication to teaching shows. Go to class, absorb his passion for the subject, and you'll do well.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 4 | Grade: A-]
+Dr. Hollingsworth is a genius. He is helpful one on one. His tests are very similar to the homework problems, but the homework takes time to complete.
+
+[Course: CSCI2670 | Quality: 2 | Difficulty: 4 | Grade: A-]
+Nice but lectures were very unhelpful and fast. Youtube videos saved me in this class. It was extremely unenjoyable and I liked theory before. He's okay to take this class with but idk- the lectures were really hard to follow and this class has a ton of work. Material is kind of hard, but I think most people ended with good grades.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: A]
+I loved Dr Hollingsworth! Definitely one of my favorite Professors. He was super about responding to questions and emails and made every effort to make sure you understood the content if you asked. The lectures had a tendency to be a bit dry, but thats the nature of the class. As long as you do the work and power through its a great class.
+
+[Course: CSCI2150 | Quality: 4 | Difficulty: 2 | Grade: A]
+Hollingsworth was pretty good. Lectures are boring but YouTube more than made up for it. Overall, this class was a breeze, especially if you've already taken Calculus.
+
+[Course: CSCI2150 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+Honestly, he was probably the nicest professor I had this semester. He is willing to listen to feedback and is very approachable in case you need help or have questions . All the exams and homework were so straightforward with no curveballs. The coursework was the lightest out of all the classes I had as well, so definitely would recommend.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 3 | Grade: ]
+Professor Hollingsworth is an alright professor. He has his strengths and weaknesses... His weakness is his EXTREMELY UNHELPFUL LECTURES. Trust me, you will be better off watching YOUTUBE VIDEOS INSTEAD of trying to make sense of the lectures. His strength is that the class is laid out very nicely. not too hard. you learn a good bit.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 3 | Grade: ]
+The lectures can be very monotone and difficult to focus through due to the format; however, if you're able to pay attention, he provides a lot of good information. Overall, I felt like the class could've been taught much better, but he got the job done without too much hassle.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 4 | Grade: A]
+Dr. Hollingsworth is an incredible professor who REALLY cares about his students and its evident in everything he does from the way he teaches lectures and explains concepts to how he makes you really think about a concept and also how helpful he is in office hours/over email. Take this class with him if you can! You really won't regret it.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 4 | Grade: Not sure yet]
+Dr. Hollingsworth is INCREDIBLY intelligent. His class is definitely one of the hardest I have taken so far but it is incredibly rewarding. His website Grafstate is amazing and makes the course 10x easier. He is more than happy to meet with you and make sure you understand material. He is passionate about what he does and cares about his students!
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: A]
+Dr. Hollingsworth is a great professor! He explains concepts very well. The material got harder and felt a bit rushed towards the end of the year, but nothing too unmanageable. My recommendation is to sit near the front of the room because he has small handwriting and a quiet voice. Would highly highly recommend taking Theory with him.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: A]
+Dr. Hollingsworth is a genius. He seems really underrated. His Lectures are really insightful but they can be a lot to take in. Go to the lab, do your homework, and prepare for tests. The tests are not that hard if you prepare well.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: A]
+Hollingsworth is one of the best professors I've ever had at UGA. If you attend lecture regularly and take notes, the homework and class assignments build on whatever he teaches in lecture. Additionally, the tests are modeled exactly after what he goes over in the homework and class assignments. He's also very friendly and answers any questions.
+
+[Course: CSCI4470 | Quality: 4 | Difficulty: 3 | Grade: A]
+I took Dr. Hollingsworth (near perfect) for 2670, and I really liked him. However, 4470 seemed to drag. The lectures, homework, and exams did not correlate with each other. HOWEVER, the work you have is straight-forward, and you can easily get an A with just the book, but you should still attend class. I strongly recommend asking for exam topics.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 2 | Grade: ]
+Great professor, willing to help, Grafstate is a great website that helps a lot
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: A]
+Great teacher. The poor ratings for 2760 are because people don't pay attention in class. Grafstate makes everything far more easier and the tests are fairly easy if you do the homework and classwork on time.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 4 | Grade: ]
+Dr. Hollingsworth is underrated at UGA. We do most of the code for homework and classwork on his own website. Lectures are usually a lot to take in. It's important to ask questions and clarify things, and he encourages it. Make sure that you practice outside of class too. The tests aren't difficult and they are doable.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 4 | Grade: ]
+Dr. Hollingsworth is a great professor. His lectures can be quite intimidating sometimes and he understands that. The tests are extremely fair and they are not difficult if you've been studying. Just do homework and classwork and you'll be fine. Make sure to study and practice important concepts and treat it like a math class.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 3 | Grade: A+]
+Hollingsworth is underrated. He assigns weekly classwork and biweekly homework. Do them all because your tests will be based off of them. Lectures are confusing; Youtube is your friend. Textbook is optional, but he may ask questions from the book. He is very caring and is plenty accessible for more help. He even wrote a prog lang for this course.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 4 | Grade: A]
+Guy's a genius. His lectures aren't bad, just really dense. Ask a lot of questions if you don't understand something, and site at the front of the class because his handwriting is pretty small. His tests are pretty easy given that you know the material. So study a decent bit and you will get an A
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 4 | Grade: A-]
+He was a good teacher. It was hard to understand what happened in class because he doesn't speak loudly, and his handwritting is poor. The homework was quite challenging, but once you understand the homework, you would be fine for the test. This class required alot of outside learning and YouTube tutorials.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: A]
+He was wonderful, would definitely recommend. Fair tests, helpful homeworks, is genuinely interested in the material, kind, caring. I actually really appreciated his writing because he writes at a pace thats easy to follow. I would suggest reading the book ahead of time  the lectures make a lot more sense that way.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: A]
+Dr. Hollingsworth is an excellent professor. It's very clear he cares about his students and will do everything he can to make sure you succeed. Yes - his handwriting is tough to read but that's due to his poor eyesight. Overall - his class is very straightforward and his assignments / tests are fair. I would definitely recommend him.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+Holly is the greatest teacher. You can tell he genuinely cares about the material as well as his students, even though he teaches theory every semester for the most part. His tests and homework help you succeed in the class and actually understand the material in class.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 2 | Grade: A+]
+holly didnt make the class harder than it needed to be. u should see klepp. its hard to follow lecture because he writes like a doctor, but since he follows the book closely and the book is actually decent, it doesnt make it hard to learn in lecture if u read the book beforehand. other than that his tests were straightforward
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 4 | Grade: B]
+The lectures can be dry because of the subject but Hollingsworth does his best to make it enjoyable. He usually announces quizzes and there were roughly 10 hw assignments with about a week to complete each. Tests usually have one question from each topic. Hollingsworth is SO helpful during office hours so please go if you're struggling!
+
+[Course: CSCI2150 | Quality: 5 | Difficulty: 3 | Grade: ]
+He is such a caring, kind professor and he really wants you to understand the material as well as succeed in his class. We mostly have weekly quizzes, but tons of extra credit and he also drops the lowest quiz grade. I would say the lab is harder than the actual class. If you go to class &amp; study for the quizzes and tests, you can easily make an A
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: Not sure yet]
+I'll be honest, I was skeptical coming into this class because of all the talk. I have once again been reminded you should never believe the negative things others say. He is very accomplished in the CS world and is very smart. I love this class and Mr. Hollingsworth. I will say, his penmanship is horrid, but he will always clarify. Recommended!!
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 3 | Grade: A-]
+Dr. Hollingsworth is excellent! Very knowledgeable in his field. Can be hard to understand sometimes, but the class is generally manageable.
+
+[Course: CSCI2670 | Quality: 5 | Difficulty: 3 | Grade: A-]
+Bill Hollingsworth is the best computer science professor I've had in my three semesters of college. He is a little quiet, but he is an incredibly knowledgeable teacher and does his best to have the whole class understand. You will need to read the book, but if you keep up with your notes you won't have a very hard time in this class.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 3 | Grade: ]
+Because of his situation his lectures are very hard to follow. The class material is pretty good up until the last month. He knows his stuff though and is not unreasonable in his assignments but because of the poor lectures I ended up relying on the book and youtube heavily. Actually really enjoyed this class.
+
+[Course: CSCI2670 | Quality: 4 | Difficulty: 3 | Grade: A]
+Pay attention- it actually helps to understand!! Especially in the beginning because the stuff is super easy compared to the test 3 and after material. So make sure to do well in the beginning; quizzes are an easy 100 so show up and know the basics of the topic. Last stuff is very theoretical and hard so try and memorize/study lots then.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 3 | Grade: A]
+Dr. Hollingsworth is an absolutely brilliant man, that being said, he talks at a brilliant level. He is a good professor but you have to focus on nothing but the class to follow along. As for his 2670, pick up your points in the first half of the class because the last half is crazy hard. He's a good pick though, he knows the material well.
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 4 | Grade: ]
+bill is a just a lil man witb a big brain. he's incredibly intelligent it's almost terrifying. lectures are not that exciting, but what can you expect from a course like computational theory. i think bill is very helpful when you ask him specific questions. i would recommend sitting in the front of the room bc his handwriting can get messy
+
+[Course: CSCI2670 | Quality: 3 | Difficulty: 3 | Grade: B]
+He knows what he's talking about and loves the topics.  Is clear on what he wants from you.  Tests and quizes were really not that bad as long as you prepared.

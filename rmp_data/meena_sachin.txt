@@ -1,0 +1,309 @@
+Professor: Sachin Meena
+Department: Computer Science
+Overall rating: 3.8  Difficulty: 3.1  Would take again: 83%
+============================================================
+
+[Course: CSCI4470 | Quality: 5 | Difficulty: 3 | Grade: B+]
+Might be the goat of the CS department. Had him for ds and algo and he was goated for both. The content is difficult at times, but half of it is from ds and the other half is straightforward if you attend his lectures. might not have gotten a "free A" but I can confidently say I know the material, which imo, is what's worth it. Thank you Dr. Meena!
+
+[Course: CSCI4470 | Quality: 5 | Difficulty: 4 | Grade: B]
+Dr. Meena is a FANTASTIC professor for algorithms. He always ensures you understand exactly what he wants. The first half of algorithms is very hard, the second half is not bad at all. The homework are lengthy, but they are exactly like the quizzes and tests, so they were great practice. I would 100% recommend Dr. Meena for algorithms.
+
+[Course: CSCI4470 | Quality: 4 | Difficulty: 3 | Grade: A]
+Great professor for algorithms. Is very clear on what will be on the test and quizzes, and questions are always from material covered in lectures. Will record his lectures and post them online, which is great for reviewing all the content. HW was reasonable but somewhat time-consuming, so make sure to start on it early. Would recommend overall.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Meena is a great professor. He always explains the concepts of the class clearly. The class is graded by few things so you need to practice, but he is accessible after class and in office hours, so he makes getting help easier. No real complaints about the professor or teaching style, just practice and start projects early.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: B]
+Not sure why comments are bashing him harshly, he just takes attendance serious. It's hard to understand him sometimes, but he's my fav CS prof yet, and he explains material well. Tests are EXACTLY off lectures. He crammed graphs in the end and made final too early, but that's because the entire class voted for an early final right before the break
+
+[Course: CSCI4470 | Quality: 4 | Difficulty: 4 | Grade: Not sure yet]
+The class started hard but got much easier as the semester progressed. Going to class is vital since he drops a lot of hints for quizzes. You get a 3 page cheat sheet for each quiz and test. Not terribly great at explaining things clearly but he goes over all you need to know for assesments. Homework problems translate almost directly to assesments
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Generally fine class for most of the semester, got very rushed in the final couple of weeks though (and not all of the content was covered)
+
+[Course: CSCI2720 | Quality: 2 | Difficulty: 4 | Grade: B]
+Very touchy about attendance. Will call you out and make a scene if you leave early. One time he forgot that a student had already asked permission to leave early and got mad at him. I could never understand anything he was saying because he doesn't speak clearly and mumbles a lot, and his handwriting on the board is also a mess. Very disorganized.
+
+[Course: CSCI4470 | Quality: 1 | Difficulty: 3 | Grade: A]
+Sitting through Meena's lectures makes me feel embarrassed to be a UGA student. I've never had a professor who understands his own content so poorly. He cannot get through his own examples, making it impossible to follow along and creating many awkward moments in every lecture. I'll definitely get an A, but would never take him again.
+
+[Course: CSCI4470 | Quality: 3 | Difficulty: 5 | Grade: B]
+3 people out of 150 got the most valuable question on the midterm correct and he still wouldn't drop it. Statistically speaking, that should inform a professor that there's something wrong with how the material is being taught. He takes attendance almost every class, make sure you're on-time and don't try to leave early (unless he knows why before)
+
+[Course: CSCI2720 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+He brags about reporting students for academic dishonesty from the very first lecture. He appears to get an ego boost from giving his students difficult work and poor quality teaching and then reporting their assignments if they look even slightly similar. I was recommended to take his class because the other 2720 professors are supposedly worse...
+
+[Course: CSCI4470 | Quality: 3 | Difficulty: 4 | Grade: B-]
+Dr. Meena cares about teaching but his lectures are so hard to follow at times. HWs are much harder than quizzes/exams. Quizzes & exams are very fair. I had a 92 the whole time & I only got a B- bc I got CLEARED by the final bc he tested us before finals week & I had a bunch of other stuff going on... So I would recommend studying a lot for exams..
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 3 | Grade: B]
+His quizzes/tests were honestly super easy. It's the assignments/homework that made the class pretty tough. His lectures are super hard to follow, which is sad cause you can really tell he does care about his students performance. Just go over slides prior to tests and quizzes and you'll be fine. Also get used to &#8220;guys&#8221; he REALLY loves that word
+
+[Course: CSCI4470 | Quality: 4 | Difficulty: 4 | Grade: B+]
+The attendance rules were strict, the two exams were hard, and I got a lower grade than expected. But honestly, I can't even be mad. He generally teaches well and the grading is fair.
+
+[Course: CSCI4470 | Quality: 1 | Difficulty: 5 | Grade: B-]
+Had him for both data structures and algorithms. Avoid for algorithms because his lecture make no sense. The issue is that Meena thinks he is being helpful to students when he's really not. He jumps around all over the place when teaching and his writings never make any sense when note-taking. His tests/quizzes suck.
+
+[Course: CSCI2720 | Quality: 2 | Difficulty: 4 | Grade: A-]
+Used to love Computer Science until I took this fellow for Data Structures. I learnt more by reading the slides than trying to understand his speech. Unfortunately, Data Structures is like a max heap of a garbage pile and this guy is at the tippity top of the trash after the ReHeap up algorithm. INSANE ego problem do not be testing him.
+
+[Course: CSCI4470 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+We have 6 homework assignments, 5 quizzes, a midterm, and a final. One homework after taking the final. The TA lowers points for commas, but one grades well. Professor, talk about class in the first 15-20 minutes of your quizzes. Then you must complete it quickly. Attendance: 5%. He is alright because the others are worse.
+
+[Course: CSCI4470 | Quality: 5 | Difficulty: 3 | Grade: A]
+Quizzes/Exams are easy if you study correctly, lectures go way more in depth than you actually need. Lots of content, but Meena is understand of this and does his best to spread out workload. Get ahead on homeworks and work on them as he is going over stuff rather than all at once at the end. Focus on being able to apply the algs, not the proofs.
+
+[Course: CSCI2720 | Quality: 1 | Difficulty: 5 | Grade: C-]
+Horrible class
+
+[Course: CSCI4470 | Quality: 5 | Difficulty: 3 | Grade: A]
+there are 2 exams with 6 hws and 5 quizzes. attendance is mandatory but you should be there since the questions from hws, quizzes, and exams come from his lectures, especially the examples he provides. really good for algo because he is helpful in making sure all students understand since algo is really difficult.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: B-]
+Pretty good professor. 4 HW's, 4 programming assignments, 5 quizzes, 1 midterm, and 1 final. Extra credit for submitting everything on time, attendance is required (4 misses allowed). Latter half of course content is easier than first. Meena has an accent but it's understandable. Quizzes and test ask very specific questions ask for time complexity.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 4 | Grade: A-]
+Meena is overall a pretty good professor for 2720. Homework and Projects should be easy 100's if you do them correctly. Attendance is mandatory, but he does not care if you pay attention. Although his lectures are hard to follow, he is decently helpful outside of class if you need help. If you properly study for quizzes and tests, you'll do fine.
+
+[Course: CSCI4470 | Quality: 5 | Difficulty: 2 | Grade: A]
+Really clear lectures and explanation of topics. Really pay attention to his examples, which is often how you will have to do the homework problems and in turn the exams. The content is tedious, yet Meena really tries to help students understand. His lectures about proofs are a little drawn out and boring but that's just proofs.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 2 | Grade: A]
+Meena is all over the place with his lectures, but he usually never gives you topics on tests you don't learn in class which is better than most. Homework and coding assignments are not hard, just time consuming. Tests are straightforward with some studying. I liked him enough to choose him for algorithms. The notes he posts are unorganized.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: B+]
+I really liked Meena's teaching style. He can be strict but I appreciate it as it helped me personally a lot. He is very fair and really does care about his students.
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 4 | Grade: B-]
+Definitely not as great as the 1302 professors but 100% an A is attainable in his class. You can work with a partner on coding assignments and he gave extra credit at the end of the semester which saved me. Lectures are mandatory but it is a bit difficult to follow along/understand him, and there's no one else you'd rather take this class with.
+
+[Course: CSCI2720 | Quality: 2 | Difficulty: 4 | Grade: B]
+6-question, parts A through G type homework in Latex. Tests with imperfect English that make them ambiguous and tough to answer in the precise way he wants. Don't bother asking him for help either. Overall, he's definitely a smart guy but there's zero reason to take him over other professors who are good at the material AND teaching it.
+
+[Course: CSCI2720 | Quality: 1 | Difficulty: 5 | Grade: B-]
+Projects disorganized, broken-English slides alongside his lectures, but doesn't use them as he darts around the whiteboard drawing (and often messing up) formulas with handwriting that looks like the galactic alphabet. He prides himself in exams that test for memorization of unimportant details he skims past instead of understanding concepts.
+
+[Course: CSCI4470 | Quality: 2 | Difficulty: 4 | Grade: Not sure yet]
+good at teaching? maybe. only grades by quizzes/tests and homework that doesn't require any coding. if you're struggling in this class, don't expect any help from him outside of the lectures, he will just tell you to get good and won't care if you pass or not
+
+[Course: CSCI2720 | Quality: 2 | Difficulty: 4 | Grade: Audit/No Grade]
+I read a comment saying he's better than some worse professors, and I see why. Although he might understand the course material, his explanations are poor. Hopefully, he doesn't teach with Professor Arpinar again, as Arpinar is the worst. They deduct 3 points for attendance, which is abusive, when you still have to teach yourself outside of class.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 4 | Grade: B+]
+Very smart and funny guy! Amazing lectures- lots of material packed into lectures, but if you listen, you will do well. Preps you for quizzes/exams and is very fair. He makes difficult material doable! You can tell he knows what he is talking about and puts effort into making sure students understand. Would take him again!
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A]
+Meena is a great professor, always goes over concepts thoroughly, will tell you exactly what you need to know, and encourages questions. Lots of extra credit and partner projects, would take him again.
+
+[Course: CSCI4470 | Quality: 2 | Difficulty: 4 | Grade: Not sure yet]
+He speedruns everything. Material is not that hard but he covers too much stuff in a single class. No extra credits , no curve. 5/5 is crazy, someone buys him some bots to give him a fake 5/5 rating. The only 5/5 in the whole department is the 1302 Brad and mike duo, if u know u know.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: A]
+Ok guys, so, Sachin Meena is a very good professor. If you attend all his lectures (attendance is graded so you should!) you will have all the understanding necessary to excel in this course. He can be funny and does ample examples on the board, so you are always up to speed. Projects are difficult but doable and extremely useful, right guys.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 2 | Grade: A-]
+Take this guy for Data Structures. His lectures can sometimes be long and a little boring but you won't have any trouble on quizzes and Exams if you show up to class. Does a crazy amount of extra credit at the end of the semester.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 2 | Grade: B+]
+Sometimes confusing to talk to but very caring and understanding of extentuating circumstances. Liked him as a professor a lot.
+
+[Course: CSCI4470 | Quality: 2 | Difficulty: 4 | Grade: ]
+He is overrated because the other professors who teach that course are so bad. I recommend taking his data structures and then his algorithm. He refers to his previous course lectures a lot, and do read the textbooks because he sometimes doesn't make sense. He tries and cares for his students, though.
+
+[Course: CSCI4470 | Quality: 5 | Difficulty: 4 | Grade: B-]
+He is one of the best CS professors at UGA. If a student does not understand a concept in class, he makes time to ensure that they understand it. The way he teaches requires you to be an active listener but, he is not that hard to follow. There are a good amount of homework and quizzes, which are very good for preparing you for the exams.
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 3 | Grade: A-]
+Best professor for data structures and algorithms, but only because the others are worse. His notes on the board are very difficult to follow, but I was usually able to figure it with some youtube to supplement. Programming assignments were tedious, but not hard. Pretty strong accent. Nit picky questions on quizes/tests. Not bad, but not the best.
+
+[Course: CSCI4470 | Quality: 5 | Difficulty: 4 | Grade: A-]
+Prof. Meena obviously knows the material very well and provides lots of opportunities for extra credit, pay attention in class and you'll do well, otherwise this class can be difficult.
+
+[Course: CSCI4470 | Quality: 4 | Difficulty: 2 | Grade: Not sure yet]
+Took him for 4470 &2270. Take him for both if you can. In 4470, he allows a 3 page cheat sheet & quizzes are not difficult. The averages on all tests have been a B. He is very considerate.Attendance is taken almost everyday. Just take Meena for this class. Most people who take other professors for this class struggle. With Meena, its light work.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 2 | Grade: A]
+Goes over topics well in class and the slides, hws, and projects are very helpful for quizzes/exams. Quizzes and exams are easy as long as you study a bit and make sure you understand the material. Lectures can be a bit boring and the slides, assignments, and hws have really everything you need. Easy with deadlines and gives info on quizzes/exams.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: ]
+Meena is great. His lectures can be a bit boring sometimes, but he makes sure that you understand the concepts and he gives extra credit for a lot of things. Also, attendance is mandatory. It can be difficult to understand him sometimes, but he does really care and wants you to see you succeed. Right guys?
+
+[Course: CSCI4470 | Quality: 4 | Difficulty: 4 | Grade: A-]
+Had him for Fall 2023. It was his first time teaching Algorithms, so his teaching method is still under development. Homework and quizzes naturally difficult due to the nature of the course; he allows cheat sheets for the quizzes and tests. Textbook highly recommended since practice problems help tremendously. Attendance taken for grade.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 4 | Grade: A-]
+attendance is mandatory, but gives extra credit for perfect attendance and submitting assignments on time as well as submitting hws online. quizzes are easy, but midterm and final are hard, so study really well for those. overall, he's a very good lecturer and good at explaining concepts.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 2 | Grade: B]
+One of the best CS professors in the department. He offers lots of extra credit including extra credit for attending class. Very understanding and knowledgable. Exams and quizzes are difficult and studying is required so make sure to attend lectures to grasp the concepts. Meena is very knowledgable and knows it can be hard so helps where he can!
+
+[Course: CSCI2720 | Quality: 2 | Difficulty: 4 | Grade: B+]
+Attendance was required. Lots of extra credit if you go to class/do his assignments. Difficult midterm and final exam. Lectures were boring.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A]
+Dr. Meena is an amazing professor who genuinely cares about his students. He offers a lot of extra credit (perfect attendance, doing course evaluations, not submitting projects late, etc). You must go to class and pay attention in lectures to do well on the quizzes/tests otherwise they can be hard. Overall, he's a great teacher and I recommend him!
+
+[Course: CSCI4470 | Quality: 2 | Difficulty: 3 | Grade: B+]
+Meena is a good professor for other classes, but not for algorithms. This dude does not know what he's even teaching, and quizzes and tests are arbitrarily graded with seemingly random scores being given by the TA. A friend and I had the same answers on the multiple choice midterm, but I got 5 extra points than him.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: C+]
+Can do great on programming assignments, but if you don't study for the exams, you will not do great. Attendance is extra credit (go to every class and get the credit, miss one, don't get credit) Homework based on concepts and programming assignments based on structures.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A+]
+Professor Meena is an amazing instructor. He genuinely cares about his students and he is incredibly lenient. I honestly enjoyed his class and he is always willing to help his students. Midterm and final were pretty easy and overall the assignments were not hard. Mr. Meena is the best choice for Data Structures.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A]
+Attendance is basically mandatory, but it is hard class if you don't show up. If you show up to all lectures and take notes you will make an A. He also gives extra credit for showing up and not turning things in late. He also cares about turning you into a better student. Great teacher.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 4 | Grade: A]
+He's a good lecturer and gives a light workload. He kept a good pace and class was pretty engaging. His tests and quizzes weren't easy but the homework prepares you well for them. After taking Discrete with him, I also took his Data Structures class and didn't regret it.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: B]
+Show up to class, he takes random attendance that is optional but adds pts to a test iirc (maybe midterm or lowest?) He says what content will be tested on in class. Data structures swapped from being taught in C++ -> Java, and it shows, the material & examples he goes over is in C++ syntax and even one of the exam problems was in C++...
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 1 | Grade: A]
+A lot of extra credit and genuinely wants you to pass/learn. Quizzes/Exams focus on what he said in lectures. Coding projects+hw are easy. He's kinda funny too, but lectures were boring. I don't like how his course is structured and the last chapter (which is the most important) is rushed. EZ A.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 1 | Grade: A+]
+Class is boring and difficult to some, but this man is the GOAT of the CS department, explains everything well if you go to class. tests and quizzes are simple in my opinion as he gives you the topics for each exam. Meena is the best CS professor you can get so take him
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 4 | Grade: A]
+Good teacher, material is dry but he is clear about what will be on quizzes/tests, covers everything in class
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A]
+If you attend class you will do good. He gives a lot of EC at the end of the semester and gives EC for attendance. He is understanding of deadlines and frequently gives extensions. He explains topics very well in lecture also. One of the better CS professors.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 2 | Grade: A]
+Extra cred opps, like attendance, typing up homework, and turning in every project on time. Lets you work on projects with a partner, super accessible outside of class/piazza. He extended like three of our projects since we just communicated that we needed the extra time. Deliberately tells you whats on the quiz in class. Overall a great prof.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 4 | Grade: B+]
+Meena seems to actually care about his students and lectures, also just a likable guy. He teaches 2720 very math-heavy, but provides lots of resources. He was sympathetic and often worked with us on tight due dates. Only complaint is that the difficulty of the quizzes and tests is really crazy sometimes. Projects are manageable. Be ready to work.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 4 | Grade: A+]
+I had Meena in Fall 2022. He was a decent lecturer that pulled content from the textbook, and most classes are presentation/powerpoint heavy. The textbook is not required since he posts the lecture slides, but it is highly recommended for success in that class. He also took random attendance around 5 times applied as extra credit. Overall good.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 3 | Grade: A-]
+Prof Meena was a good professor and I would recommend him for any class he teaches. His lectures weren't the best but he is very clear on what will be on the quizzes/exams. Also HW is easy and a large portion of your grade. I got an A- with minimal effort.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 3 | Grade: A-]
+Gives extra credit on random days for attending class and for typing your homework. Kind of fast paced but he does care for his students and is understanding. Allows a cheat sheet for quizzes and exams. HW every 2 weeks with a quiz about every 3 weeks. Just go to class and take good notes and do well on the exams and you should be fine.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: A]
+Very lecture heavy, many quiz and test questions come directly from the lecture, not PowerPoints or book. I struggled to pay attention in class, so I relied on the book. After implementing four data structures, understanding becomes more prioritized than knowing how to implement the remaining data structures. Takes random attendance for EC.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 4 | Grade: B-]
+Optional attendance, and one homework assignment every two weeks made this class not too bad, but he doesn't give the entire class time for our quizzes,which made them harder to complete.
+
+[Course: CSCI2610 | Quality: 4 | Difficulty: 3 | Grade: B]
+Has an accent which made him a little difficult to understand but he offered extra points for typing your homework and there's a youtube playlist that follows his class well so as long as you watch a couple of those videos whenever you're lost you'll pass his class easily
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 4 | Grade: C+]
+-Gives quite a bit of extra credit
+-clearly says in class what will be on the exams
+-quizzes and tests are difficult so prepare well
+-TA's are kind of useless
+-attendance is not mandatory but recommended
+-Assignments can be challenging at times but get easier as you go along
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Meena is a great teacher, but his organization and lecture speed is a bit too unorganized. However, he does care for his students. He tells his students whats going to be on exams Clearly, the other students have not been going to lecture because even though the notes are in c++, he explains how to do it in Java. Go to class and write notes!
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 5 | Grade: Not sure yet]
+Overall, Dr. Meena was okay. Projects, homework, and quizzes often had unclear or ambiguous wording. He gave extra credit if you showed up to class, and gave free points for not turning in late work. The course PowerPoints and textbook use C++ code, but he approaches all of the content in a language-agnostic way.
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 3 | Grade: Not sure yet]
+I would agree with the majority of the reviews. We unfortunately are the first class to go through the java version of data structure and I just honestly hated that he did "3 WEEKS" of "math" review. He's not terrible but if you don't understand what he's doing on the board you will have to use outside resources.
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 3 | Grade: Not sure yet]
+this class was structured terribly. all the notes and textbook are in c++ yet the assignments are all in java. he spent so long on big-O and linked lists that now we have to cram the rest of the content in just over a month, on top of that hes forcing a 1 week early final on us due to him saying the morning class preferred it. overall just not good
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: A-]
+Professor Meena is an overall good professor with good intentions. If you show up to class and pay attention, should be a breeze for CS students. Assignments can be pretty lengthy so starting ahead of time might be the only word of advice. Other then that, he wants you to pass so tests and quizzes are straight from lecture.
+
+[Course: CSCI2720 | Quality: 2 | Difficulty: 1 | Grade: A+]
+He isnt a terrible professor but giving out good grades does not mean he is an excellent professor. Spends half the semester on linked list and Big O (which we already covered in another course) and then we are cramming to fit in all the other important material for the rest of the semester. This class just feels useless and you wont really learn.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Most of the class comes from his lectures where he goes over slides, but I don't have a problem with that as he's educated and knows what he's talking about. The projects allow you to have partners and aren't hard. He also was willing to give our class extensions twice due to very fair and valid reasons which I have a lot of respect for.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 2 | Grade: A]
+Lectures are hard to understand sometimes due to his thick accent, but he gives out plenty of extra credit just for showing up, and for turning in all (five) coding assignments on time. Exams were closed note, but not that hard or annoying. Generally a better pick than most other professors in the CS department.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A-]
+Meena's a good prof, and he's really good about answering questions in detail. You get a lot of extra credit for attendance and all his assignments are pretty easy. Uploads slides and goes off them for class, will also give you quiz and test hints in class so attend and you're set. He's also super understanding and helps as much as possible
+
+[Course: CSCI2610 | Quality: 2 | Difficulty: 3 | Grade: A-]
+I thought his lectures were confusing and tbh just ended up teaching myself most of the material. I recommend getting the textbook bc a lot of the homework problems came straight from there. However he was a super nice and understanding guy - you got extra credit from going to class and typing your homework. Also could use a cheat sheet on quizzes
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+The projects are tedious but youre allowed to work in groups of 2, so definitely use that if you can. Quizzes and tests are super reflective of lecture and will be easy if you go to class and listen. Dr. Meena explains the material really well and is very good at answering whatever questions you may have! I would definitely take him again
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: ]
+Midterm: 25% - Final 25% - Quizzes &amp; HW: 20% - Projects: 30% Decent lectures. Constantly assigning projects. Most everything you need to know is in his lecture slides which he posts to ELC. Honestly a very average class.
+
+[Course: CSCI4300 | Quality: 4 | Difficulty: 3 | Grade: A]
+I took this class during a covid semester so everything was online. Dr. Meena explains things clearly and really turns most concepts in the class into straight forward memorization. Grading is relatively lax for most of the class, although the final group project (20% of your grade) is graded pretty tough by comparison.
+
+[Course: CSCI2611 | Quality: 3 | Difficulty: 3 | Grade: B+]
+(This Was during a Covid Semester) overall his zoom class was too hard to pay attention to, as he just read off the slides and has a thick accent with a terrible mic making it hard to hear. Not to mention it was a camera pointed at the problems making it really hard to see. The class itself would've been super easy if it was easier to pay attention
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 2 | Grade: Not sure yet]
+Dr. Meena is a great professor. Covered all material during lectures so projects are pretty easy and you can tell he cares about his students' education. The only criticism is that, for being a Data Structures class, it can feel a little too easy, at times. But, you can always use external resources for the extra challenge.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A]
+Dr Meena is actually one of the most caring CS professors at UGA. His lectures cover all content and you can easily not read the book. His office hours are so useful so go to them! The coding assignments were self-explanatory and are not meant to trick you. Quizzes and exams wording can be confusing but nothing obscure isever tested on exams&amp;quizze
+
+[Course: CSCI3360 | Quality: 4 | Difficulty: 1 | Grade: A]
+Don't think you can learn a lot from his class because it's always too easy. He turns coding into memorization. What he covered would be exactly on the tests/quizzes. He's a very very nice guy by the way. If you screw up, go to his office hours and you'll be fine.
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 1 | Grade: A]
+The lectures were very helpful as the assignments are almost just copy/pasting from the slides/textbook. The lectures sometimes lacked information and dragged on but they're important because they go over the nuances that are on quizes/exams. The class is very easy but it gets boring learning about one author's (at times, messy) implementations.
+
+[Course: CSCI3360 | Quality: 4 | Difficulty: 3 | Grade: A-]
+Prof Meena's class was honestly pretty easy. The assignments he assigned were well in advance and you could work with a partner (like to divi up the work) on almost everything. The tests weren't too bad and overall he's a good guy. You don't have to pay attention that much, but I'd go to class if you could.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: C+]
+Funny guy. I used the textbook because I wanted to but his lectures pretty much always covered EXACT things on quizzes/tests. He was always very explicit about what would be on assignments. Projects were the usual in UGA CS.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A-]
+Meena is the best prof I've had for any of my csci courses! He's extremely helpful during office hours and everything comes basically straight from his slides. I really enjoyed his teaching and even though the material can be boring, he doesn't try to make things more difficult than they are. He's funny and nice!
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 3 | Grade: A]
+He really cares about his students. A lot of the material is covered in the lecture and if you take the time to understand the concepts he talks about in class, Data structures is really simplified.
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 2 | Grade: ]
+Dr. Meena is a very nice and caring professor. Even though the lectures can get boring over time, all the material for the quizzes and exams come straight from the lectures. He's very fair about the exams and projects. If you pay attention to the lectures, you can get an A.
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 3 | Grade: ]
+He's not an awful teacher but not great. He takes attendance every once in a while when a lot of people aren't there and that's used for extra credit. There's also a bonus on most of the projects, and if your project average is above 100 then your extra points can go into another category. The biggest problem is that every category is 25%.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: B+]
+Guy's super nice and very lenient on grading, given that you show up to class and participate. The only gripe I have with his class is that EVERYTHING is worth 25% of your grade. So if you get 100's on everything, but get a 75% average on quizzes? You're getting a B. It's so stupid and I hope he changes it. Otherwise a good teacher.
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 3 | Grade: B]
+You are not obligated to come to class or buy the book, but you will suffer from it. There is a lot of memorization of terms and tree algorithms. Speaking of which, you are guaranteed a C at worst if you just read the slides over and over. The homework is time consuming, but really easy. I cannot imagine anyone failing this unless they try to.
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 2 | Grade: A]
+Meena's class was basically measured on how well you could memorize slides. Attendance isn't mandatory but going to class is very helpful because he takes a lot of quiz questions from points he went over in class (that aren't even in the slides). He also gave extra credit based off of attendance once. Projects are straightforward and have bonuses.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 3 | Grade: ]
+Pretty decent professor; the textbook is optional but get it because it helps a lot for projects + quizzes. Read the slides 10 times before a quiz and you should be good. Projects are really easy. Overall this class didn't require a ton of effort, and extra credit on projects + for coming to class. It's almost impossible to fail.
+
+[Course: CSCI2720 | Quality: 2 | Difficulty: 4 | Grade: ]
+Meena knows the stuff, but he has a tendency to read exactly what is on the slides. Quizzes are extremely specific, and relies more on how well you can memorize the slides rather than applicable knowledge. Projects are another story, they are fairly lenient as long as you do exactly what is asked, which isn't too difficult. Mostly self-study.
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 3 | Grade: A-]
+meena is a nice dude but he wasnt a great lecturer and his tests/quizzes were very textbook specific. the class is easy if u can memorize ppt slides, but beyond that nothing is exactly intuitive and tests were vaguely/poorly written. i think meena does have potential to be a great professor, however, and his tests/quizzes improved over the semester
+
+[Course: CSCI2720 | Quality: 5 | Difficulty: 1 | Grade: A]
+Great Professor. Personally feel like he understands all the material. Sometimes it might be hard to explain some concepts that would require drawings, but overall, everyone will do fine if you just listen and go through the powerpoints. Assignments are straight forward, but could be more challenging. Office hours are extremely helpful. 6/5
+
+[Course: CSCI2720 | Quality: 3 | Difficulty: 1 | Grade: A]
+Sachin Meena is a decent professor. He's very nice. He is not the best at conveying information, though. The quality of the slides is fairly low and the coding projects do very little in the way of teaching the content. He is not a bad professor, but there are better options. Online materials will be very helpful in supplementing the material.
+
+[Course: CSCI2720 | Quality: 4 | Difficulty: 2 | Grade: ]
+Great professor. This was his first semester teaching Data Structs, so it can only get better from here on out. We had a midterm and a final, a few quizzes and 4 programming assignments. All were not bad and the book really helped with the assignments. I take my final in 2 days and expect to get a B or an A- in the class. Would recommend.

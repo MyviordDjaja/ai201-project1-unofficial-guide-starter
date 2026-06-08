@@ -1,0 +1,317 @@
+Professor: Salvatore Lamarca
+Department: Computer Science
+Overall rating: 2.8  Difficulty: 3.8  Would take again: 46.8085%
+============================================================
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 3 | Grade: B]
+The exams will test both your knowledge and your mental fortitude. However! The projects and weekly assignments are easy so long as you follow all instructions. Attend class or else. Still, he gives the answers to each in-class activity.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 2 | Grade: A]
+Sal is a nice guy but his lectures are torture. If you can manage to pay attention during these though the class is smooth sailing. Always found the complaints about needing to memorize the unix manual funny because if you pay attention he'll bring it up once every class, but most students in the section are busy playing games on their laptops.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: A]
+Just don't. He literally asks which page some unix commands are found in the manual on the midterms/final. Extremely test heavy and his boring lectures don't help at all.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 3 | Grade: A+]
+Genuinely not as bad as what the reviews say. Assigns a total of 12 labs and 4 projects which are time-consuming but doable provided you manage your time correctly. Lectures can get a bit dry but overall are fairly engaging and fairly paced. Is strict on phone usage but besides that is a genuinely good professor.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: B]
+draconian. why are we expected to know what page something is in the manual. that is what the manual is for.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 3 | Grade: ]
+I expected the worst having Sal as the only professor available. Turns out he's not a bad person at all. Lectures were comprehensive but excruciatingly boring because of his robotic pacing and the 80-min periods this semester. Weekly labs and regular projects make this class involving but manageable. Exams are very self-study-able using the slides.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: C-]
+I've never had a professor who wants to see his students fail as much as this dude. To give you an idea of what I mean, his midterm and final had questions asking for us to recall specific section / page numbers in the Unix User manual. And he was a crashout.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 3 | Grade: A]
+Long lectures with lots of tiny details. Do not skip class at all--frequent pop quizzes and assignments track your attendance. Several projects assigned, start them early as late penalties are harsh. The required "lab" period can be very useful if you do the work, but do not slack! Exams seem to test on obscure content rather than application.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 4 | Grade: A]
+Memorization heavy. Understand all powerpoints he posts, and you should be good for pop quizzes and midterm/final exams. Come to class every day for ALEs because you'll get a 0 otherwise. The 13 Labs and 4 projects are not too hard if you understand the concepts, but start early. Overall, just know you need to put in the work and stay consistent.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 2 | Grade: B+]
+This is just a boring class, but attendance is mandatory. It is hard to want to pay attention in this class. It isn't a hard class to pass if you just put in the time. There are pop quizzes but it is on eLc and in class activities that count towards your grade, so it is important to show up. He isn't the kindest person and is very strict on phones.
+
+[Course: CS1301 | Quality: 2 | Difficulty: 4 | Grade: A]
+He is not the best CS professor. The final grade depends entirely on two exams and no review questions are provided before the tests. Attendance is mandatory, and he will yell at students for using their phones during class. To do well, you need to learn about 90% of the material from the textbook and only 10% from the lectures.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: C+]
+The worst professor in the CS Department, extremely boring lectures and was always rude to students, the class has 13 active learning exercises, 10 quizzes, 13 labs, 4 projects and 2 exams worth 50% (25% each), he does not even drop the lowest grade in any of these sections stated above and is a very strict grader, Do not take him.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 2 | Grade: A]
+Lectures were extremely dry, and are best described as robotic. Lamarca sounds like Mickey Mouse, except he doesn't care about his students whatsoever. He takes every opportunity to punish and threaten students. Homework assignments and projects are lengthy and boring, but relatively easy. Exams were fairly easy, but memorization heavy and unfair.
+
+[Course: CSCI1730 | Quality: 5 | Difficulty: 3 | Grade: A]
+Don't know what all the hate is about. Lectures can be boring but they're super informative and well rehearsed. Grading criteria is very clear and the labs and projects are pretty easy. Weekly "pop" quizzes but they're not bad. Exams were pretty fair, minus 3 or 4 super specific questions but just attending lectures is enough to make a good grade.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: A]
+Talks in circles during lectures, makes everything take much longer than it needed to.
+Attendance is only graded for the lab times, but there are graded assignments in each lecture (answers are given before you turn it in) so its practically mandatory attendance.
+Exams are closer to trivia and fun facts than actual assessments. Avoid at all costs.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 4 | Grade: Not sure yet]
+This class is a tough one, but Sal is a competent teacher. Huge stickler about phones. Knows course content very well, the workload for this class is VERY heavy. Attendance not required but random quizzes and group exercises that hurt to miss. Overall not as bad as his rating says. Better one on one than he comes off during lecture.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: A]
+DO NOT TAKE. Guy does not care about his students and thinks you're only taking his class with the amount of work he assigns.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 4 | Grade: Not sure yet]
+Lamarca teaches a hard class and he is kind of dry, but he is not as bad as a lot of the reviews say he is. Definitely start projects early. The only really crazy thing was the amount of readings we were assigned, they are ungraded though. If you go to class, office hours, and are thorough with assignment submissions it's fine.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 2 | Grade: A]
+Honestly felt like these reviews are really harsh. Super easy class just boring all things considered. Socially awkward, but super passionate about what he teaches, and is clearly knowledgeable on the topic. No reason to not get an A, all labs and projects are free 100's, participation grade is also free 100 too (end of class worksheet/quiz)
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 4 | Grade: Not sure yet]
+yea, he gets a lot of bad reviews, but he's really just mid. He hates ppl using headphones but only has ever called out 1 or 2 so far
+
+talks A LOT during lectures. He does clarify a lot of stuff, so that's good I guess. Hey, at least he didn't have a complete meltdown in class like a certain other CS prof who I will not name!
+
+[Course: CS1301 | Quality: 4 | Difficulty: 3 | Grade: A-]
+This guy is not nearly as bad as the reviews make him seem. He is strict about phones and headphones and DO NOT fall asleep in class. Quizzes about every other week and ALE's at least once a week. Lectures are sort of boring but helpful and use the textbook to help study for quizzes/exams. 1 midterm and 1 final exam that make up 50% of your grade.
+
+[Course: CSC11301 | Quality: 3 | Difficulty: 2 | Grade: A+]
+Not as bad as people say by any means, honestly read the textbook because his teaching covers everything but is just okay especially if you don't already code a lot. Can be strict about the phone thing or anything he perceives as disrespect, but honestly a pretty easy class.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 3 | Grade: A-]
+Sal is a chill guy once you get to know him. Don't let the reviews scare you. That being said, lectures are very boring and are hard to follow. To succeed, make sure to know the textbook front and back!
+
+[Course: CSCI1730 | Quality: 5 | Difficulty: 2 | Grade: ]
+he's actually a good prof, like I don't understand these reviews I mean he does give lots of in class activities but its an easy class like if you study the concepts you'll be fine
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 2 | Grade: A+]
+Lamarca is fine. Pay attention during lectures no matter how difficult it is. Course content is easy to understand. Weighted heavily towards exams and labs so don't stress about ALEs and quizzes. Exams are straightforward and aren't designed to trick you.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: A-]
+Dr. LaMarca lacks in sympathy. Never met a professor that went so out of his own way to be as difficult as possible on the students. Very questionable grading criteria and tests. Asked random memorization questions such as "which page a command could be found in the C manual."
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 3 | Grade: A]
+No one likes him. I thought he was alright, maybe underrated even. He's got wabi sabi
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+He is pretty strict on even pulling out your phone in class or having any type of headphones on. Also, make sure you don't sleep in his class because he WILL wake you up in front of the whole class. The projects and labs are helpful, but are tedious and his quizzes are okay. The class is very lecture heavy and he likes to do ALE which are graded.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 4 | Grade: Not sure yet]
+Good lectures, but wish he did more live coding. His grading criteria is very strict, so if you forget one comment on a function, you lose about 30% on an entire lab. While he doesn't take attendance, 99% of the time there will be an in-class activity or a quiz. Read the assignment descriptions very carefully, as some have specific requirements.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 3 | Grade: Not sure yet]
+sal's lectures are boring and could use more examples. his textbook readings are too long for you to digest any new information. he grades coding assignments very strictly. exams 50% of the course grade despite there being 4 projects and ~12 labs. he's an ok professor overall.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 3 | Grade: A]
+Everyone hates on him because he's strict, but given the sheer size of the class, I don't know if I can blame him *THAT* much.
+
+Clear grading criteria (same as CS1301/2: check everything like a maniac), good at explaining, hard labs. Solid lectures, shame 70% of the class plays video games rather than listen (and yes I was part of the problem).
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: B+]
+Horrible teacher, does not really care about his students an the difficulties that they might be facing, non negotiable.
+
+[Course: CSCI2610 | Quality: 1 | Difficulty: 5 | Grade: B+]
+this guy is like my teammates in league of legends: a bunch of inters
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: D-]
+if i had a nickel for every time this man rambles on about how much he hates students using electronics, I would be rich cause he does this every day
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: Not sure yet]
+Electronics are not allowed. He goes over slides and content very quickly... takes points from exam every minute you're late... will most likely have a quiz every week
+
+[Course: CSC11301 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+If you can, take someone else. This guy has written fake rmp reviews to keep a good rating and deceive people into taking his class. He also took THIRTY points off of my lab grade for comments and indentation, even though the code worked. Don't make the same mistake I did, take someone else.
+
+[Course: CS1301 | Quality: 3 | Difficulty: 4 | Grade: C+]
+He's a decent professor, his lectures are useful and the workload was on the heavy side of manageable but feels worse because he's so strict. I got 30 points taken off from a project for a "typo" in the filename (which was a grammatical error on HIS part). Just show up and triple check your work like a maniac and you'll be fine. Edibles help.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+This guy has a bachelor's from the same school he teaches at and acts like he's hot stuff. 
+Will demand for you to show your UGA card to whoever is teaching the lab or class and will write you up for academic dishonesty if you don't.
+
+SOMEONE TRANSFERED MAJORS AND COLLEGES BECAUSE OF THIS GUY. DON'T TAKE HIM.
+
+Btw higher ratings on here r just him
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 4 | Grade: Not sure yet]
+Would never have even considered taking him if this class wasn't required for my major due to all the negative feedback I've heard. He is rude and lashes out. very petty with headphones. Yaps about nonsense while saying important stuff once. 2 exams worth 50% of grade in coding class is a literal joke. Very surprised he is still a professor here.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 3 | Grade: A]
+Always have quizzes or small exercises in class that make you have to be in class. Quizzes are frequent and annoying. He's harsh about phones or earbuds but oddly fine with laptops used for games or videos. The class itself isn't hard&#8212;you could learn everything from the textbook&#8212;but he makes it more frustrating than it needs to be.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 3 | Grade: B]
+He's super by-the-book and doesn't really teach, just reads off powerpoints. Make sure you attend class cuz even though attendance technically isn't mandatory there are assignments or quizzes every class and you'll get a 0 if you miss them. The quizzes can get very annoying, so make sure you're well-versed in the material.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 4 | Grade: B+]
+Sal is fine, he's whatever. He just reads off the slides every period but the work for the class really isn't that hard, other than the final project which I thought was WAY harder than anything else we had to do, so start early on that. Make sure you follow the syllabus and the homework/project instructions to a tee otherwise you get a 0.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 2 | Grade: C]
+go to class bro, i didnt. i still passed so just go.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 3 | Grade: B]
+Not too sure why his rating is so low. He's pretty strict but overall he is a really solid lecturer, and the labs/projects are pretty easy. Attendance &#8220;isn't required&#8221; however there's daily graded activities meaning it's essentially required. The midterm/final are super tough as it's just a lot of material. Just go to class and pay attention.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 4 | Grade: A-]
+goofy ahh professor, bro literally has a salty mood, would get crash out on us for sleeping or peeking on our phone, he mad he got no maidens, and he lashes us alot. TA's are chill doe.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: ]
+He knows what he is talking about but his lectures are boring. He is strict with his grading and using phones. Only 2 exams. Midterm is 50 mcq while final is 75 questions mcq. Final is hard. Exams test on memorization. Study guide he hands out for final doesn't even help for final exam.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 4 | Grade: Not sure yet]
+He's pretty boring and attendance is mandatory, its whatever. What I really hate, is how labs/projects are extremely vague and he will take off 50% for an improper readme file. I had one character missing(yes it happened to me) and he did that. Exams are 75% memorization and 25% code tracing. midterm is 50 mcq and final is 75 mcq.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: ]
+never have i loathed a professor like this before. wanted to do anything but go listen to him try and fill his daily word count
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: B+]
+Really Sucks
+Lectures are boring, pop quizzes or ALE's for attendance.
+Really hard grader and hard tests.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: A-]
+This professor tries to fill a word count with every single sentence he speaks. Two exams worth 50% of the overall grade. If you are late to an exam, you get points off, so be careful. Projects and labs are not bad though. But, would never take another class with him if I have the chance, and I'd advise to get someone else if you can.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+Two exams make up 50% of your grade while projects and labs only make up 30% COMBINED. A &#8220;coding&#8221; class that prioritizes memorization. Good luck getting a good grade in this class since the exams pull from the textbook and random in class statements that are never mentioned twice.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+Teaches off of slides (sometimes code), and knows what he's talking about. Attendance is not taken, but graded handouts and pop quizzes are given almost every class. The exams are okay, just expect for there to be material that is only found in the textbooks (yes, two). There is a lab assignment every week, and 4 projects throughout the semester.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 2 | Grade: A]
+Coming in to the class I expected the antichrist with how people talk about him. Genuinely if you just do the projects and follow each guideline (they're pretty clear) then you'll be plenty fine. Best professor I've had in the computer science department at UGA so far.
+
+[Course: CS1301 | Quality: 1 | Difficulty: 5 | Grade: A+]
+I never wore my seatbelt while driving to school because I wanted to die before making it to his class.
+
+[Course: CS1301 | Quality: 2 | Difficulty: 3 | Grade: A-]
+He reads from powerpoints or codes in front of the class. There is little actual teaching. Its not really an issue at first because the topics are simple and easy to grasp but as they get harder his lack of teaching becomes more apparent. I learned far more in lab than in lecture. He has active learning assignments randomly to ensure attendance.
+
+[Course: CSC11301 | Quality: 1 | Difficulty: 5 | Grade: A-]
+save yourself and do not take this professor.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: A-]
+Not understanding when it comes to grading. Will give you a 0 if you make any error in your code despite the instructions being unclear. Will rather tell you to "use it as a learning experience" instead of hearing what you have to say. Lab every week & you will have weeks where you have a lab, project, and test all in same week. Not too hard tho
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 3 | Grade: B+]
+Reviews are kinda dramatic. Of course if there's a project you have to do it his way... That goes for any class. They're not particularly difficult. Expectations and assignments are straightforward. If you really think this class is so unreasonable, CS may not be a good choice for you. He's a chill guy. Just study and do your work
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 2 | Grade: A]
+Definitely over hated, but wouldn't say he's amazing, just okay. Didn't really pay attention, just read the textbook and notes that he posted. Attendance is mandatory, and he has pop quizzes and group activities based on what he just taught in class. Projects and labs are easier than those in 1302. Tests are difficult. Take him if only option.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: B+]
+Look at the review distribution and tell me nothing is wrong here. He's not fooling a bunch of CS and math students with this. Everybody knows how he is as a prof and still takes him because he's the only option. He needs to listen to the bad reviews rather than dismiss them with his colossal ego
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 3 | Grade: B-]
+I've heard a lot of negative things about him, but imo he was decent. He just is very picky over project criteria and honestly does not give a lot of grace if you miss a quiz/lecture. Had a friend that made a super small error on his project and ended up getting a 0. Just be sure to follow project instructions clearly and you should be good.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: C+]
+Take course over the Summer with a different professor to keep your sanity. The United Healthcare of UGA CS trying to deny you from getting into the major.
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: B]
+i could fill a book with my complaints. pettiest prof ever. made a 41 question study guide for the final and only gave it to the 3 people who stayed for his lecture the day before fall break and refused to post it online. if ur stuck with him i sincerely apologize, read the sections he assigns thoroughly bc you will not learn anything from lecture.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 3 | Grade: A]
+Great lecturer, not the nicest person. Definitely knows his stuff. I had no experience with C before this but have done just fine. Pop quiz and ALE practically every week. Projects are easy, just start on them early. Most labs are straightforward, but 2 or 3 are trickier. Exams aren't awful, but he throws in some random things you don't expect.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 5 | Grade: A]
+Course itself is already hard but its not too bad since I had prior knowledge on C. But he always wants everything done HIS way which made me spend an unnecessary amount of time on certain projects.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: A]
+I didn't even take his class I just had to constantly listen to my boyfriend complain about him and so now I have beef with him
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: A]
+In NBA terms, Lamarca is the Dillon Brooks of the CS department at UGA.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: Not sure yet]
+Lectures are soo boring. You're basically have to teach yourself everything because he's no help at all
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: Not sure yet]
+I mean does he expect a bunch of computer science students to look at this distribution of reviews and believe it???
+
+[Course: CSCI4150 | Quality: 1 | Difficulty: 4 | Grade: A-]
+Professor Lamarca cares more about his image than his students. He boasts about being tough, but it's just a front for bad teaching. Half the class dropped out by midterm. Save yourself some time and don't enroll.
+
+[Course: CSCI4150 | Quality: 1 | Difficulty: 3 | Grade: B-]
+This man thrives on chaos. The syllabus was a mess, assignments were poorly explained, and he made it clear that our struggles were not his problem. If you enjoy confusion, stress, and absolute indifference, this is the class for you. Otherwise, RUN.
+
+[Course: CSCI4150 | Quality: 1 | Difficulty: 5 | Grade: B]
+With a name like Salvatore Lamarca, you'd expect to be at least somewhat of a decent human being, but somehow this guy couldn't live up to the bare minimum expectations. TERRIBLE teacher. A WASTE of an awesome name. And doesn't care about students welfare, mental health, or performance in his class. DO NOT TAKE.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 4 | Grade: Not sure yet]
+Decent professor but horrible person. Can NEVER skip class cuz one day you'll have a quiz and other day of the week an ALE. Lectures are boring but if you pay attention, he explains well. Labs every week (13 total), 4 projects, and 10 quizzes + ALEs. He doesn't encourage questions at all so dont even bother.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 3 | Grade: Not sure yet]
+After reading all the reviews on here, I was pretty nervous about taking his class. However, he's not as bad as everyone says he is. He's a pretty good but boring teacher. However, he is easy to talk to in terms of anything class related or cs related. You can tell he is passionate about CS. Yes, it is a hard class so be prepared and start early.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 3 | Grade: A]
+As other reviews mention, he is very strict and not a very fuzzy person. However, he knows what he's talking about and explains concepts well. Weekly hw, 4 projs, midterm, final. Good teacher and the course is well organized, but he may not be your favorite person ever.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 4 | Grade: B+]
+The lectures are dry, but if you stay engaged and use helpful study tools like unstuckstudy ai, you can do well. Lots of work, but manageable if you keep up.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: C-]
+Occasionally tests for irrelevant knowledge - always tests for intimate knowledge. One MCQ read, "What command was page X of the manual?". Wants his students to come to class, but instead of taking attendance, just doesn't upload material. One of his favorite pastimes is drinking students' tears on RMP and writing/coaxing fake reviews.
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 3 | Grade: B]
+took in Spring 2024 and his class is straightforward. To succeed, simply attend classes regularly, be prepared for pop quizzes, complete ALEs, show up to labs, and stay on top of your work. If you do, you'll find that his examples are super helpful for homework and projects. Lamarca may come across as strict, but trust me, you'll learn a ton!
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 2 | Grade: B+]
+Beware of Mr. Lamarca's fragile ego! He doesn't allow phones out during lectures, and if you look at him the wrong way while he's chastising another student, he might go after you too! He doesn't take attendance for lectures, but there are frequent in-class pop quizzes. The "lab" is just a homework session with graded attendance.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: ]
+I would never take him again!
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: ]
+Don't take him!
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: A]
+He wrote all the fake 5-star reviews. His lectures put you to sleep. His grading rubric is nitpicky. He is mean. On day one, he said not to come to him if we have mental health issues from his class because he isn't trained to handle that. Pop quizzes. Avoid this man at all costs unless you know the material already. Bad look on the CS department
+
+[Course: CSCI1301 | Quality: 1 | Difficulty: 4 | Grade: A]
+He writes his own reviews. Avoid him, unless you already know the class material. He is a mean person. On the first day of class, he told people who have mental health problems from his class that they should not come to him, because he is not trained to handle that. His grading rubrick is tough and nitpicky. His tests were mostly fair.
+
+[Course: CS1301 | Quality: 1 | Difficulty: 4 | Grade: A]
+Seems like a chill person. Unfortunately, that doesn't carry over to his teaching. Vague covering of the readings, very slow paced, and leaves you with little to no information about assignments. ~12-13 labs, 6 quizzes, 4 projects, a midterm and a final. Very rigorous class, so stay on top of your work and finish labs & projects as soon as you can.
+
+[Course: CSCI1730 | Quality: 5 | Difficulty: 3 | Grade: A+]
+Systems was smooth sailing as I had experience with almost all concepts. Even so, most of the LaMarca criticism is overblown and wasn't apparent to me. I really recommend attending the lectures and dedicating an appropriate amount of time to the Labs and Projects, they are fun. Course is easier if you have genuine interest in some of the material.
+
+[Course: CSCI1730 | Quality: 2 | Difficulty: 3 | Grade: B]
+Knowledgeable professor, but very monotonous lectures. Lots of assignments that aren't always the easiest (weekly labs and also projects that overlap with the labs). At least one pop quiz and active learning every week. Exams are okay but study every single little detail in the textbook/powerpoints. Class can be very hard if you don't keep up.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 4 | Grade: A]
+Lamarca isn't as bad as people make him out to be. Can be very robotic and gives dry lectures but the grading and assignments are very clear and he tells you what you should know in each class. More difficult than 1301/1302 but very doable to get an A if you pay attention and keep up with the assignments
+
+[Course: CSCI1730 | Quality: 3 | Difficulty: 3 | Grade: A]
+Dude is a super dry lecturer. But if you pay attention you are golden for this course. Not very understanding and follows his syllabus to the T. Expect atleast one ALE and Quiz each week that counts as attendance. Midterm and Final are easier than he makes it out to be. For God's sake don't have your phone out visible in class. Extra credit at end.
+
+[Course: CSCI1730 | Quality: 4 | Difficulty: 3 | Grade: A]
+Dr. Lamarca is given a bad rep, but he's really not that bad. The TAs do all the grading so the class difficulty hinges a lot on whether or not they are tough graders, this semester the TAs were pretty chill graders. The exams basically just cover everything on the slides and he gives a lot of participation points with in-class group assignments.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: C+]
+This is not a fun class. It's difficult with a heavy workload and an uninspiring professor who gives pop quizzes on eLC at the end of class. Most quizzes are free responses so if you don't have a clue what you're doing, be prepared to suffer. Lamar has an obsession with bits, unsigned/signed variables, and memory maps. Good luck to future students.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: B]
+13 ALEs, 13 labs, 4 projects, 10 pop quizzes, and 2 exams (25% of grade). Stupidly time-consuming class and professor wasn't much help. He was like a robot and always clearly defined what he wanted in every assignment. The class is difficult if you aren't a coding whiz. Labs and projects are solo assignments. I aged 10 years after this class.BEWARE
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: C+]
+This is now my second time having Sal as a professor. I had him for 1301 and 1730. After 1301, I told myself I would not take Sal again, but here we are. He is not a very nice person and boring. Very hard class and basically just reads of the slides in class. You have pop quizzes and worksheets every week graded for accuracy and not completion.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 1 | Grade: A+]
+Dawg reported and got my first review removed. Says a lot about the dude.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 5 | Grade: B]
+It's been 2 years and I still hate him. From time to time I check his rate my professor and his efforts to write a 5 star review for himself for every 1 star is mind boggling. He puts more effort in keeping his rating to marginal 3 than teaching the course and making sure everyone understands a crucial language. Certified Benchod!
+
+[Course: CSCI4150 | Quality: 4 | Difficulty: 2 | Grade: Not sure yet]
+I would say I'm pretty indifferent if not slightly amiable with Sal. He's pretty chill in this upper level course as well as being amicable, chatty, and overall much more easygoing. He'll also get a chuckle outta you here and there :-). I would definitely say there's no need to be shy when taking his upper division courses.
+
+[Course: CSCI4150 | Quality: 4 | Difficulty: 4 | Grade: Not sure yet]
+Everyone talks trash about Sal but he is actually a good teacher. If you have him for 1301 he will be tough but in higher level classes he is very helpful and gives you all the tools you need to pass the class. Show up to his class, start on the homework early and crack a joke in his class. He is not as bad as people make him out to be. I promise.
+
+[Course: CSCI4150 | Quality: 2 | Difficulty: 4 | Grade: Not sure yet]
+Attendance is not mandatory, though ALEs and quizzes are given at random. Lots of content is covered in this course, though equations and notes are not posted and must be written down during class time. Do not get me wrong, taking notes will definitely help as exams and quizzes are open-note and open-MATLAB. But personally, would not recommend.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 3 | Grade: Not sure yet]
+Probably the most insufferable and boring person I have ever had to be in the presence of in my life. Avoid him at all costs you will want to drop out of school and give up. Really really really annoying
+
+[Course: CSCI4150 | Quality: 5 | Difficulty: 4 | Grade: A+]
+I thoroughly enjoyed my time in this course with Dr. Sal, The content was interesting and he was available to discuss questions after class. Due to the smaller class size I felt that there was more time available for the students to receive help from Dr. Sal personally. I even showed up after my final ended and Dr. Sal let me take it anyways.
+
+[Course: CSCI1730 | Quality: 1 | Difficulty: 4 | Grade: ]
+1 student of ~80 in the class was on his phone, Sal scolded him in front of everyone. Another guy far in the back just shook his head disapprovingly, scolded him too. Treats students like middle-schoolers. Not v helpful when answering questions. If you're smart you'll probably get a good grade regardless, but he should not be your first pick.
